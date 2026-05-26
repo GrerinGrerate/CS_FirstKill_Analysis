@@ -1,0 +1,3602 @@
+[
+    {
+        "series_id": "2394228",
+        "event_name": "cs-asia-championships-2026",
+        "map_id": "229795",
+        "teams_name": "falcons-vs-legacy-cs-asia-championships-2026"
+    },
+    {
+        "series_id": "2394226",
+        "event_name": "cs-asia-championships-2026",
+        "map_id": "229657",
+        "teams_name": "mibr-vs-legacy-cs-asia-championships-2026"
+    },
+    {
+        "series_id": "2394225",
+        "event_name": "cs-asia-championships-2026",
+        "map_id": "229636",
+        "teams_name": "falcons-vs-mouz-cs-asia-championships-2026"
+    },
+    {
+        "series_id": "2394223",
+        "event_name": "cs-asia-championships-2026",
+        "map_id": "229539",
+        "teams_name": "legacy-vs-the-mongolz-cs-asia-championships-2026"
+    },
+    {
+        "series_id": "2394222",
+        "event_name": "cs-asia-championships-2026",
+        "map_id": "229512",
+        "teams_name": "the-mongolz-vs-parivision-cs-asia-championships-2026"
+    },
+    {
+        "series_id": "2394221",
+        "event_name": "cs-asia-championships-2026",
+        "map_id": "229506",
+        "teams_name": "mibr-vs-b8-cs-asia-championships-2026"
+    },
+    {
+        "series_id": "2394216",
+        "event_name": "cs-asia-championships-2026",
+        "map_id": "229439",
+        "teams_name": "tyloo-vs-pain-cs-asia-championships-2026"
+    },
+    {
+        "series_id": "2394217",
+        "event_name": "cs-asia-championships-2026",
+        "map_id": "229414",
+        "teams_name": "the-mongolz-vs-liquid-cs-asia-championships-2026"
+    },
+    {
+        "series_id": "2394215",
+        "event_name": "cs-asia-championships-2026",
+        "map_id": "229426",
+        "teams_name": "m80-vs-mouz-cs-asia-championships-2026"
+    },
+    {
+        "series_id": "2394211",
+        "event_name": "cs-asia-championships-2026",
+        "map_id": "229394",
+        "teams_name": "nrg-vs-mouz-cs-asia-championships-2026"
+    },
+    {
+        "series_id": "2394210",
+        "event_name": "cs-asia-championships-2026",
+        "map_id": "229325",
+        "teams_name": "the-mongolz-vs-b8-cs-asia-championships-2026"
+    },
+    {
+        "series_id": "2394209",
+        "event_name": "cs-asia-championships-2026",
+        "map_id": "229313",
+        "teams_name": "mibr-vs-parivision-cs-asia-championships-2026"
+    },
+    {
+        "series_id": "2394202",
+        "event_name": "cs-asia-championships-2026",
+        "map_id": "229311",
+        "teams_name": "pain-vs-m80-cs-asia-championships-2026"
+    },
+    {
+        "series_id": "2394178",
+        "event_name": "iem-atlanta-2026",
+        "map_id": "229165",
+        "teams_name": "gamerlegion-vs-natus-vincere-iem-atlanta-2026"
+    },
+    {
+        "series_id": "2394177",
+        "event_name": "iem-atlanta-2026",
+        "map_id": "229150",
+        "teams_name": "legacy-vs-betboom-iem-atlanta-2026"
+    },
+    {
+        "series_id": "2394176",
+        "event_name": "iem-atlanta-2026",
+        "map_id": "229097",
+        "teams_name": "legacy-vs-gamerlegion-iem-atlanta-2026"
+    },
+    {
+        "series_id": "2394172",
+        "event_name": "iem-atlanta-2026",
+        "map_id": "228900",
+        "teams_name": "gamerlegion-vs-astralis-iem-atlanta-2026"
+    },
+    {
+        "series_id": "2394170",
+        "event_name": "iem-atlanta-2026",
+        "map_id": "228894",
+        "teams_name": "b8-vs-vitality-iem-atlanta-2026"
+    },
+    {
+        "series_id": "2394167",
+        "event_name": "iem-atlanta-2026",
+        "map_id": "228882",
+        "teams_name": "sinners-vs-astralis-iem-atlanta-2026"
+    },
+    {
+        "series_id": "2394168",
+        "event_name": "iem-atlanta-2026",
+        "map_id": "228881",
+        "teams_name": "gamerlegion-vs-liquid-iem-atlanta-2026"
+    },
+    {
+        "series_id": "2394163",
+        "event_name": "iem-atlanta-2026",
+        "map_id": "228801",
+        "teams_name": "passion-ua-vs-sinners-iem-atlanta-2026"
+    },
+    {
+        "series_id": "2394161",
+        "event_name": "iem-atlanta-2026",
+        "map_id": "228800",
+        "teams_name": "natus-vincere-vs-gamerlegion-iem-atlanta-2026"
+    },
+    {
+        "series_id": "2394159",
+        "event_name": "iem-atlanta-2026",
+        "map_id": "228765",
+        "teams_name": "b8-vs-bcgame-iem-atlanta-2026"
+    },
+    {
+        "series_id": "2394114",
+        "event_name": "iem-atlanta-2026",
+        "map_id": "228691",
+        "teams_name": "legacy-vs-m80-iem-atlanta-2026"
+    },
+    {
+        "series_id": "2394113",
+        "event_name": "iem-atlanta-2026",
+        "map_id": "228681",
+        "teams_name": "sinners-vs-gamerlegion-iem-atlanta-2026"
+    },
+    {
+        "series_id": "2394112",
+        "event_name": "iem-atlanta-2026",
+        "map_id": "228682",
+        "teams_name": "natus-vincere-vs-passion-ua-iem-atlanta-2026"
+    },
+    {
+        "series_id": "2394108",
+        "event_name": "iem-atlanta-2026",
+        "map_id": "228664",
+        "teams_name": "vitality-vs-bcgame-iem-atlanta-2026"
+    },
+    {
+        "series_id": "2394109",
+        "event_name": "iem-atlanta-2026",
+        "map_id": "228642",
+        "teams_name": "b8-vs-betboom-iem-atlanta-2026"
+    },
+    {
+        "series_id": "2394156",
+        "event_name": "pgl-astana-2026",
+        "map_id": "229137",
+        "teams_name": "spirit-vs-falcons-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394155",
+        "event_name": "pgl-astana-2026",
+        "map_id": "229116",
+        "teams_name": "mouz-vs-magic-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394152",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228999",
+        "teams_name": "furia-vs-falcons-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394151",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228984",
+        "teams_name": "9z-vs-magic-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394148",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228842",
+        "teams_name": "the-mongolz-vs-aurora-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394146",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228817",
+        "teams_name": "gentle-mates-vs-magic-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394145",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228732",
+        "teams_name": "parivision-vs-g2-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394143",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228724",
+        "teams_name": "monte-vs-the-huns-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394142",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228723",
+        "teams_name": "the-mongolz-vs-falcons-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394141",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228697",
+        "teams_name": "heroic-vs-magic-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394138",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228641",
+        "teams_name": "furia-vs-spirit-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394137",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228599",
+        "teams_name": "k27-vs-magic-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394133",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228580",
+        "teams_name": "heroic-vs-gentle-mates-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394130",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228524",
+        "teams_name": "falcons-vs-9z-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394128",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228505",
+        "teams_name": "furia-vs-heroic-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394129",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228495",
+        "teams_name": "parivision-vs-fisher-college-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394124",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228476",
+        "teams_name": "mouz-vs-g2-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394118",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228410",
+        "teams_name": "mouz-vs-gentle-mates-pgl-astana-2026"
+    },
+    {
+        "series_id": "2394119",
+        "event_name": "pgl-astana-2026",
+        "map_id": "228404",
+        "teams_name": "the-mongolz-vs-magic-pgl-astana-2026"
+    },
+    {
+        "series_id": "2393349",
+        "event_name": "blast-rivals-2026-season-1",
+        "map_id": "228049",
+        "teams_name": "vitality-vs-gamerlegion-blast-rivals-2026-season-1"
+    },
+    {
+        "series_id": "2393346",
+        "event_name": "blast-rivals-2026-season-1",
+        "map_id": "227947",
+        "teams_name": "g2-vs-faze-blast-rivals-2026-season-1"
+    },
+    {
+        "series_id": "2393336",
+        "event_name": "blast-rivals-2026-season-1",
+        "map_id": "227840",
+        "teams_name": "natus-vincere-vs-gamerlegion-blast-rivals-2026-season-1"
+    },
+    {
+        "series_id": "2393335",
+        "event_name": "blast-rivals-2026-season-1",
+        "map_id": "227832",
+        "teams_name": "faze-vs-furia-blast-rivals-2026-season-1"
+    },
+    {
+        "series_id": "2393334",
+        "event_name": "blast-rivals-2026-season-1",
+        "map_id": "227810",
+        "teams_name": "vitality-vs-g2-blast-rivals-2026-season-1"
+    },
+    {
+        "series_id": "2393333",
+        "event_name": "blast-rivals-2026-season-1",
+        "map_id": "227797",
+        "teams_name": "fut-vs-astralis-blast-rivals-2026-season-1"
+    },
+    {
+        "series_id": "2393322",
+        "event_name": "blast-rivals-2026-season-1",
+        "map_id": "227755",
+        "teams_name": "furia-vs-gamerlegion-blast-rivals-2026-season-1"
+    },
+    {
+        "series_id": "2393319",
+        "event_name": "blast-rivals-2026-season-1",
+        "map_id": "227700",
+        "teams_name": "vitality-vs-fut-blast-rivals-2026-season-1"
+    },
+    {
+        "series_id": "2393245",
+        "event_name": "iem-rio-2026",
+        "map_id": "226791",
+        "teams_name": "spirit-vs-vitality-iem-rio-2026"
+    },
+    {
+        "series_id": "2393244",
+        "event_name": "iem-rio-2026",
+        "map_id": "226782",
+        "teams_name": "falcons-vs-furia-iem-rio-2026"
+    },
+    {
+        "series_id": "2393242",
+        "event_name": "iem-rio-2026",
+        "map_id": "226717",
+        "teams_name": "falcons-vs-spirit-iem-rio-2026"
+    },
+    {
+        "series_id": "2393241",
+        "event_name": "iem-rio-2026",
+        "map_id": "226671",
+        "teams_name": "vitality-vs-natus-vincere-iem-rio-2026"
+    },
+    {
+        "series_id": "2393240",
+        "event_name": "iem-rio-2026",
+        "map_id": "226668",
+        "teams_name": "spirit-vs-mouz-iem-rio-2026"
+    },
+    {
+        "series_id": "2393238",
+        "event_name": "iem-rio-2026",
+        "map_id": "226622",
+        "teams_name": "furia-vs-mouz-iem-rio-2026"
+    },
+    {
+        "series_id": "2393239",
+        "event_name": "iem-rio-2026",
+        "map_id": "226623",
+        "teams_name": "natus-vincere-vs-aurora-iem-rio-2026"
+    },
+    {
+        "series_id": "2393236",
+        "event_name": "iem-rio-2026",
+        "map_id": "226614",
+        "teams_name": "vitality-vs-falcons-iem-rio-2026"
+    },
+    {
+        "series_id": "2393237",
+        "event_name": "iem-rio-2026",
+        "map_id": "226613",
+        "teams_name": "g2-vs-spirit-iem-rio-2026"
+    },
+    {
+        "series_id": "2393234",
+        "event_name": "iem-rio-2026",
+        "map_id": "226604",
+        "teams_name": "b8-vs-aurora-iem-rio-2026"
+    },
+    {
+        "series_id": "2393232",
+        "event_name": "iem-rio-2026",
+        "map_id": "226596",
+        "teams_name": "red-canids-vs-spirit-iem-rio-2026"
+    },
+    {
+        "series_id": "2393230",
+        "event_name": "iem-rio-2026",
+        "map_id": "226576",
+        "teams_name": "mouz-vs-aurora-iem-rio-2026"
+    },
+    {
+        "series_id": "2393228",
+        "event_name": "iem-rio-2026",
+        "map_id": "226563",
+        "teams_name": "natus-vincere-vs-furia-iem-rio-2026"
+    },
+    {
+        "series_id": "2393229",
+        "event_name": "iem-rio-2026",
+        "map_id": "226568",
+        "teams_name": "b8-vs-passion-ua-iem-rio-2026"
+    },
+    {
+        "series_id": "2393226",
+        "event_name": "iem-rio-2026",
+        "map_id": "226560",
+        "teams_name": "spirit-vs-falcons-iem-rio-2026"
+    },
+    {
+        "series_id": "2393224",
+        "event_name": "iem-rio-2026",
+        "map_id": "226542",
+        "teams_name": "vitality-vs-g2-iem-rio-2026"
+    },
+    {
+        "series_id": "2393225",
+        "event_name": "iem-rio-2026",
+        "map_id": "226543",
+        "teams_name": "red-canids-vs-gentle-mates-iem-rio-2026"
+    },
+    {
+        "series_id": "2393087",
+        "event_name": "iem-rio-2026",
+        "map_id": "226517",
+        "teams_name": "aurora-vs-hotu-iem-rio-2026"
+    },
+    {
+        "series_id": "2393085",
+        "event_name": "iem-rio-2026",
+        "map_id": "226518",
+        "teams_name": "furia-vs-passion-ua-iem-rio-2026"
+    },
+    {
+        "series_id": "2393088",
+        "event_name": "iem-rio-2026",
+        "map_id": "226515",
+        "teams_name": "legacy-vs-mouz-iem-rio-2026"
+    },
+    {
+        "series_id": "2393082",
+        "event_name": "iem-rio-2026",
+        "map_id": "226499",
+        "teams_name": "gentle-mates-vs-g2-iem-rio-2026"
+    },
+    {
+        "series_id": "2393046",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "226395",
+        "teams_name": "astralis-vs-fut-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393044",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "226331",
+        "teams_name": "fut-vs-the-mongolz-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393042",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "226255",
+        "teams_name": "the-mongolz-vs-parivision-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393040",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "226229",
+        "teams_name": "astralis-vs-eyeballers-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393035",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "226173",
+        "teams_name": "parivision-vs-wildcard-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393030",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "226068",
+        "teams_name": "b8-vs-inner-circle-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393027",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "226052",
+        "teams_name": "mibr-vs-eyeballers-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393025",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "226013",
+        "teams_name": "parivision-vs-fut-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393023",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "225993",
+        "teams_name": "astralis-vs-the-mongolz-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393024",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "225998",
+        "teams_name": "inner-circle-vs-faze-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393022",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "225987",
+        "teams_name": "nrg-vs-eyeballers-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393019",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "225972",
+        "teams_name": "fokus-vs-wildcard-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393020",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "225968",
+        "teams_name": "legacy-vs-mibr-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393016",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "225892",
+        "teams_name": "legacy-vs-inner-circle-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393017",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "225888",
+        "teams_name": "the-mongolz-vs-eyeballers-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393013",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "225813",
+        "teams_name": "astralis-vs-b8-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393009",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "225705",
+        "teams_name": "parivision-vs-legacy-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393008",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "225675",
+        "teams_name": "astralis-vs-mibr-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393005",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "225663",
+        "teams_name": "b8-vs-wildcard-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393006",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "225655",
+        "teams_name": "nrg-vs-voca-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2393003",
+        "event_name": "pgl-bucharest-2026",
+        "map_id": "225639",
+        "teams_name": "fut-vs-inner-circle-pgl-bucharest-2026"
+    },
+    {
+        "series_id": "2391774",
+        "event_name": "blast-open-rotterdam-2026",
+        "map_id": "224420",
+        "teams_name": "natus-vincere-vs-parivision-blast-open-rotterdam-2026"
+    },
+    {
+        "series_id": "2391772",
+        "event_name": "blast-open-rotterdam-2026",
+        "map_id": "224252",
+        "teams_name": "parivision-vs-falcons-blast-open-rotterdam-2026"
+    },
+    {
+        "series_id": "2391771",
+        "event_name": "blast-open-rotterdam-2026",
+        "map_id": "224238",
+        "teams_name": "aurora-vs-the-mongolz-blast-open-rotterdam-2026"
+    },
+    {
+        "series_id": "2391769",
+        "event_name": "blast-open-rotterdam-2026",
+        "map_id": "223729",
+        "teams_name": "parivision-vs-vitality-blast-open-rotterdam-2026"
+    },
+    {
+        "series_id": "2391768",
+        "event_name": "blast-open-rotterdam-2026",
+        "map_id": "223686",
+        "teams_name": "falcons-vs-furia-blast-open-rotterdam-2026"
+    },
+    {
+        "series_id": "2391765",
+        "event_name": "blast-open-rotterdam-2026",
+        "map_id": "223603",
+        "teams_name": "liquid-vs-the-mongolz-blast-open-rotterdam-2026"
+    },
+    {
+        "series_id": "2391763",
+        "event_name": "blast-open-rotterdam-2026",
+        "map_id": "223576",
+        "teams_name": "nrg-vs-furia-blast-open-rotterdam-2026"
+    },
+    {
+        "series_id": "2391764",
+        "event_name": "blast-open-rotterdam-2026",
+        "map_id": "223566",
+        "teams_name": "tyloo-vs-falcons-blast-open-rotterdam-2026"
+    },
+    {
+        "series_id": "2391762",
+        "event_name": "blast-open-rotterdam-2026",
+        "map_id": "223513",
+        "teams_name": "the-mongolz-vs-vitality-blast-open-rotterdam-2026"
+    },
+    {
+        "series_id": "2391759",
+        "event_name": "blast-open-rotterdam-2026",
+        "map_id": "223427",
+        "teams_name": "ninjas-in-pyjamas-vs-liquid-blast-open-rotterdam-2026"
+    },
+    {
+        "series_id": "2391757",
+        "event_name": "blast-open-rotterdam-2026",
+        "map_id": "223317",
+        "teams_name": "falcons-vs-natus-vincere-blast-open-rotterdam-2026"
+    },
+    {
+        "series_id": "2391756",
+        "event_name": "blast-open-rotterdam-2026",
+        "map_id": "223289",
+        "teams_name": "faze-vs-tyloo-blast-open-rotterdam-2026"
+    },
+    {
+        "series_id": "2390816",
+        "event_name": "blast-open-rotterdam-2026",
+        "map_id": "223200",
+        "teams_name": "spirit-vs-liquid-blast-open-rotterdam-2026"
+    },
+    {
+        "series_id": "2390815",
+        "event_name": "blast-open-rotterdam-2026",
+        "map_id": "223189",
+        "teams_name": "parivision-vs-ninjas-in-pyjamas-blast-open-rotterdam-2026"
+    },
+    {
+        "series_id": "2390814",
+        "event_name": "blast-open-rotterdam-2026",
+        "map_id": "223151",
+        "teams_name": "furia-vs-tyloo-blast-open-rotterdam-2026"
+    },
+    {
+        "series_id": "2390812",
+        "event_name": "blast-open-rotterdam-2026",
+        "map_id": "223091",
+        "teams_name": "natus-vincere-vs-b8-blast-open-rotterdam-2026"
+    },
+    {
+        "series_id": "2391141",
+        "event_name": "esl-pro-league-season-23-finals",
+        "map_id": "222822",
+        "teams_name": "natus-vincere-vs-aurora-esl-pro-league-season-23-finals"
+    },
+    {
+        "series_id": "2391139",
+        "event_name": "esl-pro-league-season-23-finals",
+        "map_id": "222692",
+        "teams_name": "natus-vincere-vs-fut-esl-pro-league-season-23-finals"
+    },
+    {
+        "series_id": "2391136",
+        "event_name": "esl-pro-league-season-23-finals",
+        "map_id": "222629",
+        "teams_name": "mouz-vs-fut-esl-pro-league-season-23-finals"
+    },
+    {
+        "series_id": "2391134",
+        "event_name": "esl-pro-league-season-23-finals",
+        "map_id": "222571",
+        "teams_name": "the-mongolz-vs-natus-vincere-esl-pro-league-season-23-finals"
+    },
+    {
+        "series_id": "2389986",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "220129",
+        "teams_name": "mouz-vs-the-mongolz-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389985",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "220067",
+        "teams_name": "vitality-vs-the-mongolz-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389983",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219937",
+        "teams_name": "furia-vs-the-mongolz-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389981",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219902",
+        "teams_name": "mouz-vs-natus-vincere-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389980",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219865",
+        "teams_name": "falcons-vs-parivision-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389978",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219656",
+        "teams_name": "fut-vs-parivision-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389975",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219559",
+        "teams_name": "furia-vs-parivision-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389976",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219513",
+        "teams_name": "g2-vs-heroic-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389973",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219512",
+        "teams_name": "natus-vincere-vs-the-mongolz-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389974",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219503",
+        "teams_name": "b8-vs-aurora-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389971",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219477",
+        "teams_name": "mouz-vs-fut-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389972",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219486",
+        "teams_name": "faze-vs-astralis-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389969",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219421",
+        "teams_name": "furia-vs-falcons-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389970",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219422",
+        "teams_name": "g2-vs-pain-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389965",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219385",
+        "teams_name": "the-mongolz-vs-b8-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389966",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219383",
+        "teams_name": "fut-vs-astralis-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389963",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219372",
+        "teams_name": "natus-vincere-vs-aurora-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389964",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219364",
+        "teams_name": "faze-vs-parivision-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389961",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219290",
+        "teams_name": "vitality-vs-the-mongolz-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389959",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219241",
+        "teams_name": "furia-vs-fut-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389958",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219219",
+        "teams_name": "g2-vs-parivision-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389955",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219212",
+        "teams_name": "natus-vincere-vs-mouz-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389953",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219173",
+        "teams_name": "furia-vs-b8-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389954",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219167",
+        "teams_name": "the-mongolz-vs-pain-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389951",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219128",
+        "teams_name": "vitality-vs-g2-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389948",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219049",
+        "teams_name": "aurora-vs-fut-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389947",
+        "event_name": "pgl-cluj-napoca-2026",
+        "map_id": "219060",
+        "teams_name": "natus-vincere-vs-astralis-pgl-cluj-napoca-2026"
+    },
+    {
+        "series_id": "2389666",
+        "event_name": "iem-krakw-2026",
+        "map_id": "218557",
+        "teams_name": "furia-vs-vitality-iem-krakw-2026"
+    },
+    {
+        "series_id": "2389665",
+        "event_name": "iem-krakw-2026",
+        "map_id": "218546",
+        "teams_name": "spirit-vs-mouz-iem-krakw-2026"
+    },
+    {
+        "series_id": "2389663",
+        "event_name": "iem-krakw-2026",
+        "map_id": "218494",
+        "teams_name": "spirit-vs-furia-iem-krakw-2026"
+    },
+    {
+        "series_id": "2389661",
+        "event_name": "iem-krakw-2026",
+        "map_id": "218399",
+        "teams_name": "furia-vs-aurora-iem-krakw-2026"
+    },
+    {
+        "series_id": "2389657",
+        "event_name": "iem-krakw-2026",
+        "map_id": "218203",
+        "teams_name": "astralis-vs-furia-iem-krakw-2026"
+    },
+    {
+        "series_id": "2389655",
+        "event_name": "iem-krakw-2026",
+        "map_id": "218179",
+        "teams_name": "mouz-vs-faze-iem-krakw-2026"
+    },
+    {
+        "series_id": "2389653",
+        "event_name": "iem-krakw-2026",
+        "map_id": "218133",
+        "teams_name": "furia-vs-natus-vincere-iem-krakw-2026"
+    },
+    {
+        "series_id": "2389654",
+        "event_name": "iem-krakw-2026",
+        "map_id": "218134",
+        "teams_name": "fut-vs-astralis-iem-krakw-2026"
+    },
+    {
+        "series_id": "2389647",
+        "event_name": "iem-krakw-2026",
+        "map_id": "218063",
+        "teams_name": "natus-vincere-vs-spirit-iem-krakw-2026"
+    },
+    {
+        "series_id": "2389646",
+        "event_name": "iem-krakw-2026",
+        "map_id": "218042",
+        "teams_name": "the-mongolz-vs-furia-iem-krakw-2026"
+    },
+    {
+        "series_id": "2389645",
+        "event_name": "iem-krakw-2026",
+        "map_id": "218038",
+        "teams_name": "g2-vs-fut-iem-krakw-2026"
+    },
+    {
+        "series_id": "2389644",
+        "event_name": "iem-krakw-2026",
+        "map_id": "218030",
+        "teams_name": "falcons-vs-aurora-iem-krakw-2026"
+    },
+    {
+        "series_id": "2389637",
+        "event_name": "iem-krakw-2026",
+        "map_id": "217927",
+        "teams_name": "furia-vs-fut-iem-krakw-2026"
+    },
+    {
+        "series_id": "2389281",
+        "event_name": "blast-bounty-2026-season-1-finals",
+        "map_id": "217514",
+        "teams_name": "falcons-vs-parivision-blast-bounty-2026-season-1-finals"
+    },
+    {
+        "series_id": "2389280",
+        "event_name": "blast-bounty-2026-season-1-finals",
+        "map_id": "217439",
+        "teams_name": "parivision-vs-furia-blast-bounty-2026-season-1-finals"
+    },
+    {
+        "series_id": "2389279",
+        "event_name": "blast-bounty-2026-season-1-finals",
+        "map_id": "217431",
+        "teams_name": "vitality-vs-falcons-blast-bounty-2026-season-1-finals"
+    },
+    {
+        "series_id": "2389278",
+        "event_name": "blast-bounty-2026-season-1-finals",
+        "map_id": "217340",
+        "teams_name": "parivision-vs-spirit-blast-bounty-2026-season-1-finals"
+    },
+    {
+        "series_id": "2389276",
+        "event_name": "blast-bounty-2026-season-1-finals",
+        "map_id": "217220",
+        "teams_name": "heroic-vs-furia-blast-bounty-2026-season-1-finals"
+    },
+    {
+        "series_id": "2388128",
+        "event_name": "starladder-budapest-major-2025",
+        "map_id": "215488",
+        "teams_name": "spirit-vs-vitality-starladder-budapest-major-2025"
+    },
+    {
+        "series_id": "2388127",
+        "event_name": "starladder-budapest-major-2025",
+        "map_id": "215455",
+        "teams_name": "furia-vs-natus-vincere-starladder-budapest-major-2025"
+    },
+    {
+        "series_id": "2388124",
+        "event_name": "starladder-budapest-major-2025",
+        "map_id": "215412",
+        "teams_name": "vitality-vs-the-mongolz-starladder-budapest-major-2025"
+    },
+    {
+        "series_id": "2388122",
+        "event_name": "starladder-budapest-major-2025",
+        "map_id": "215251",
+        "teams_name": "faze-vs-passion-ua-starladder-budapest-major-2025"
+    },
+    {
+        "series_id": "2388117",
+        "event_name": "starladder-budapest-major-2025",
+        "map_id": "215161",
+        "teams_name": "mouz-vs-falcons-starladder-budapest-major-2025"
+    },
+    {
+        "series_id": "2388111",
+        "event_name": "starladder-budapest-major-2025",
+        "map_id": "215070",
+        "teams_name": "mouz-vs-spirit-starladder-budapest-major-2025"
+    },
+    {
+        "series_id": "2388112",
+        "event_name": "starladder-budapest-major-2025",
+        "map_id": "215072",
+        "teams_name": "passion-ua-vs-liquid-starladder-budapest-major-2025"
+    },
+    {
+        "series_id": "2388110",
+        "event_name": "starladder-budapest-major-2025",
+        "map_id": "215060",
+        "teams_name": "imperial-vs-falcons-starladder-budapest-major-2025"
+    },
+    {
+        "series_id": "2388107",
+        "event_name": "starladder-budapest-major-2025",
+        "map_id": "215058",
+        "teams_name": "faze-vs-the-mongolz-starladder-budapest-major-2025"
+    },
+    {
+        "series_id": "2388094",
+        "event_name": "starladder-budapest-major-2025",
+        "map_id": "214988",
+        "teams_name": "passion-ua-vs-g2-starladder-budapest-major-2025"
+    },
+    {
+        "series_id": "2387550",
+        "event_name": "blast-rivals-2025-season-2",
+        "map_id": "213857",
+        "teams_name": "furia-vs-falcons-blast-rivals-2025-season-2"
+    },
+    {
+        "series_id": "2387547",
+        "event_name": "blast-rivals-2025-season-2",
+        "map_id": "213719",
+        "teams_name": "spirit-vs-vitality-blast-rivals-2025-season-2"
+    },
+    {
+        "series_id": "2387543",
+        "event_name": "blast-rivals-2025-season-2",
+        "map_id": "213621",
+        "teams_name": "passion-ua-vs-falcons-blast-rivals-2025-season-2"
+    },
+    {
+        "series_id": "2387505",
+        "event_name": "blast-rivals-2025-season-2",
+        "map_id": "213538",
+        "teams_name": "furia-vs-pain-blast-rivals-2025-season-2"
+    },
+    {
+        "series_id": "2387413",
+        "event_name": "iem-chengdu-2025",
+        "map_id": "213277",
+        "teams_name": "mouz-vs-falcons-iem-chengdu-2025"
+    },
+    {
+        "series_id": "2387411",
+        "event_name": "iem-chengdu-2025",
+        "map_id": "213149",
+        "teams_name": "falcons-vs-furia-iem-chengdu-2025"
+    },
+    {
+        "series_id": "2387409",
+        "event_name": "iem-chengdu-2025",
+        "map_id": "212930",
+        "teams_name": "furia-vs-the-mongolz-iem-chengdu-2025"
+    },
+    {
+        "series_id": "2387410",
+        "event_name": "iem-chengdu-2025",
+        "map_id": "212921",
+        "teams_name": "vitality-vs-astralis-iem-chengdu-2025"
+    },
+    {
+        "series_id": "2387408",
+        "event_name": "iem-chengdu-2025",
+        "map_id": "212727",
+        "teams_name": "spirit-vs-the-mongolz-iem-chengdu-2025"
+    },
+    {
+        "series_id": "2387407",
+        "event_name": "iem-chengdu-2025",
+        "map_id": "212711",
+        "teams_name": "astralis-vs-falcons-iem-chengdu-2025"
+    },
+    {
+        "series_id": "2387406",
+        "event_name": "iem-chengdu-2025",
+        "map_id": "212695",
+        "teams_name": "vitality-vs-g2-iem-chengdu-2025"
+    },
+    {
+        "series_id": "2387396",
+        "event_name": "iem-chengdu-2025",
+        "map_id": "212597",
+        "teams_name": "faze-vs-virtuspro-iem-chengdu-2025"
+    },
+    {
+        "series_id": "2387380",
+        "event_name": "iem-chengdu-2025",
+        "map_id": "212531",
+        "teams_name": "astralis-vs-natus-vincere-iem-chengdu-2025"
+    },
+    {
+        "series_id": "2387383",
+        "event_name": "iem-chengdu-2025",
+        "map_id": "212518",
+        "teams_name": "vitality-vs-virtuspro-iem-chengdu-2025"
+    },
+    {
+        "series_id": "2387352",
+        "event_name": "pgl-masters-bucharest-2025",
+        "map_id": "212362",
+        "teams_name": "aurora-vs-legacy-pgl-masters-bucharest-2025"
+    },
+    {
+        "series_id": "2387346",
+        "event_name": "pgl-masters-bucharest-2025",
+        "map_id": "212268",
+        "teams_name": "b8-vs-aurora-pgl-masters-bucharest-2025"
+    },
+    {
+        "series_id": "2387344",
+        "event_name": "pgl-masters-bucharest-2025",
+        "map_id": "212234",
+        "teams_name": "aurora-vs-astralis-pgl-masters-bucharest-2025"
+    },
+    {
+        "series_id": "2387338",
+        "event_name": "pgl-masters-bucharest-2025",
+        "map_id": "212151",
+        "teams_name": "liquid-vs-flyquest-pgl-masters-bucharest-2025"
+    },
+    {
+        "series_id": "2387339",
+        "event_name": "pgl-masters-bucharest-2025",
+        "map_id": "212149",
+        "teams_name": "betboom-vs-gentle-mates-pgl-masters-bucharest-2025"
+    },
+    {
+        "series_id": "2387335",
+        "event_name": "pgl-masters-bucharest-2025",
+        "map_id": "212128",
+        "teams_name": "fnatic-vs-mibr-pgl-masters-bucharest-2025"
+    },
+    {
+        "series_id": "2387334",
+        "event_name": "pgl-masters-bucharest-2025",
+        "map_id": "212093",
+        "teams_name": "b8-vs-pain-pgl-masters-bucharest-2025"
+    },
+    {
+        "series_id": "2387332",
+        "event_name": "pgl-masters-bucharest-2025",
+        "map_id": "212073",
+        "teams_name": "aurora-vs-heroic-pgl-masters-bucharest-2025"
+    },
+    {
+        "series_id": "2387328",
+        "event_name": "pgl-masters-bucharest-2025",
+        "map_id": "212051",
+        "teams_name": "liquid-vs-betboom-pgl-masters-bucharest-2025"
+    },
+    {
+        "series_id": "2387324",
+        "event_name": "pgl-masters-bucharest-2025",
+        "map_id": "211961",
+        "teams_name": "aurora-vs-liquid-pgl-masters-bucharest-2025"
+    },
+    {
+        "series_id": "2387325",
+        "event_name": "pgl-masters-bucharest-2025",
+        "map_id": "211967",
+        "teams_name": "fnatic-vs-flyquest-pgl-masters-bucharest-2025"
+    },
+    {
+        "series_id": "2387322",
+        "event_name": "pgl-masters-bucharest-2025",
+        "map_id": "211950",
+        "teams_name": "heroic-vs-betboom-pgl-masters-bucharest-2025"
+    },
+    {
+        "series_id": "2387104",
+        "event_name": "pgl-masters-bucharest-2025",
+        "map_id": "211829",
+        "teams_name": "aurora-vs-fnatic-pgl-masters-bucharest-2025"
+    },
+    {
+        "series_id": "2387105",
+        "event_name": "pgl-masters-bucharest-2025",
+        "map_id": "211827",
+        "teams_name": "astralis-vs-b8-pgl-masters-bucharest-2025"
+    },
+    {
+        "series_id": "2387098",
+        "event_name": "pgl-masters-bucharest-2025",
+        "map_id": "211773",
+        "teams_name": "legacy-vs-liquid-pgl-masters-bucharest-2025"
+    },
+    {
+        "series_id": "2387099",
+        "event_name": "pgl-masters-bucharest-2025",
+        "map_id": "211780",
+        "teams_name": "pain-vs-gentle-mates-pgl-masters-bucharest-2025"
+    },
+    {
+        "series_id": "2386809",
+        "event_name": "thunderpick-world-championship-2025",
+        "map_id": "211241",
+        "teams_name": "furia-vs-natus-vincere-thunderpick-world-championship-2025"
+    },
+    {
+        "series_id": "2386808",
+        "event_name": "thunderpick-world-championship-2025",
+        "map_id": "211230",
+        "teams_name": "aurora-vs-the-mongolz-thunderpick-world-championship-2025"
+    },
+    {
+        "series_id": "2386807",
+        "event_name": "thunderpick-world-championship-2025",
+        "map_id": "211182",
+        "teams_name": "natus-vincere-vs-the-mongolz-thunderpick-world-championship-2025"
+    },
+    {
+        "series_id": "2386805",
+        "event_name": "thunderpick-world-championship-2025",
+        "map_id": "211107",
+        "teams_name": "aurora-vs-venom-thunderpick-world-championship-2025"
+    },
+    {
+        "series_id": "2386802",
+        "event_name": "thunderpick-world-championship-2025",
+        "map_id": "210999",
+        "teams_name": "natus-vincere-vs-aurora-thunderpick-world-championship-2025"
+    },
+    {
+        "series_id": "2386800",
+        "event_name": "thunderpick-world-championship-2025",
+        "map_id": "210953",
+        "teams_name": "furia-vs-the-mongolz-thunderpick-world-championship-2025"
+    },
+    {
+        "series_id": "2386798",
+        "event_name": "thunderpick-world-championship-2025",
+        "map_id": "210846",
+        "teams_name": "natus-vincere-vs-imperial-thunderpick-world-championship-2025"
+    },
+    {
+        "series_id": "2386847",
+        "event_name": "cs-asia-championships-2025",
+        "map_id": "211209",
+        "teams_name": "liquid-vs-heroic-cs-asia-championships-2025"
+    },
+    {
+        "series_id": "2386844",
+        "event_name": "cs-asia-championships-2025",
+        "map_id": "211054",
+        "teams_name": "legacy-vs-fut-cs-asia-championships-2025"
+    },
+    {
+        "series_id": "2386842",
+        "event_name": "cs-asia-championships-2025",
+        "map_id": "210961",
+        "teams_name": "fut-vs-faze-cs-asia-championships-2025"
+    },
+    {
+        "series_id": "2386841",
+        "event_name": "cs-asia-championships-2025",
+        "map_id": "210939",
+        "teams_name": "fnatic-vs-heroic-cs-asia-championships-2025"
+    },
+    {
+        "series_id": "2386833",
+        "event_name": "cs-asia-championships-2025",
+        "map_id": "210931",
+        "teams_name": "liquid-vs-legacy-cs-asia-championships-2025"
+    },
+    {
+        "series_id": "2386840",
+        "event_name": "cs-asia-championships-2025",
+        "map_id": "210929",
+        "teams_name": "faze-vs-tyloo-cs-asia-championships-2025"
+    },
+    {
+        "series_id": "2386839",
+        "event_name": "cs-asia-championships-2025",
+        "map_id": "210921",
+        "teams_name": "pain-vs-fut-cs-asia-championships-2025"
+    },
+    {
+        "series_id": "2386836",
+        "event_name": "cs-asia-championships-2025",
+        "map_id": "210793",
+        "teams_name": "faze-vs-b8-cs-asia-championships-2025"
+    },
+    {
+        "series_id": "2386830",
+        "event_name": "cs-asia-championships-2025",
+        "map_id": "210739",
+        "teams_name": "liquid-vs-mibr-cs-asia-championships-2025"
+    },
+    {
+        "series_id": "2386826",
+        "event_name": "cs-asia-championships-2025",
+        "map_id": "210720",
+        "teams_name": "faze-vs-fut-cs-asia-championships-2025"
+    },
+    {
+        "series_id": "2386820",
+        "event_name": "cs-asia-championships-2025",
+        "map_id": "210712",
+        "teams_name": "virtuspro-vs-legacy-cs-asia-championships-2025"
+    },
+    {
+        "series_id": "2385968",
+        "event_name": "esl-pro-league-season-22",
+        "map_id": "210567",
+        "teams_name": "faze-vs-vitality-esl-pro-league-season-22"
+    },
+    {
+        "series_id": "2385965",
+        "event_name": "esl-pro-league-season-22",
+        "map_id": "210479",
+        "teams_name": "spirit-vs-faze-esl-pro-league-season-22"
+    },
+    {
+        "series_id": "2385962",
+        "event_name": "esl-pro-league-season-22",
+        "map_id": "210204",
+        "teams_name": "aurora-vs-faze-esl-pro-league-season-22"
+    },
+    {
+        "series_id": "2385958",
+        "event_name": "esl-pro-league-season-22",
+        "map_id": "210103",
+        "teams_name": "vitality-vs-g2-esl-pro-league-season-22"
+    },
+    {
+        "series_id": "2385957",
+        "event_name": "esl-pro-league-season-22",
+        "map_id": "210077",
+        "teams_name": "the-mongolz-vs-gentle-mates-esl-pro-league-season-22"
+    },
+    {
+        "series_id": "2385954",
+        "event_name": "esl-pro-league-season-22",
+        "map_id": "210048",
+        "teams_name": "furia-vs-aurora-esl-pro-league-season-22"
+    },
+    {
+        "series_id": "2385953",
+        "event_name": "esl-pro-league-season-22",
+        "map_id": "209947",
+        "teams_name": "spirit-vs-g2-esl-pro-league-season-22"
+    },
+    {
+        "series_id": "2385949",
+        "event_name": "esl-pro-league-season-22",
+        "map_id": "209883",
+        "teams_name": "inner-circle-vs-furia-esl-pro-league-season-22"
+    },
+    {
+        "series_id": "2385940",
+        "event_name": "esl-pro-league-season-22",
+        "map_id": "209754",
+        "teams_name": "mouz-vs-gentle-mates-esl-pro-league-season-22"
+    },
+    {
+        "series_id": "2385939",
+        "event_name": "esl-pro-league-season-22",
+        "map_id": "209743",
+        "teams_name": "the-mongolz-vs-inner-circle-esl-pro-league-season-22"
+    },
+    {
+        "series_id": "2385933",
+        "event_name": "esl-pro-league-season-22",
+        "map_id": "209652",
+        "teams_name": "the-mongolz-vs-hotu-esl-pro-league-season-22"
+    },
+    {
+        "series_id": "2385932",
+        "event_name": "esl-pro-league-season-22",
+        "map_id": "209651",
+        "teams_name": "falcons-vs-astralis-esl-pro-league-season-22"
+    },
+    {
+        "series_id": "2385931",
+        "event_name": "esl-pro-league-season-22",
+        "map_id": "209645",
+        "teams_name": "spirit-vs-inner-circle-esl-pro-league-season-22"
+    },
+    {
+        "series_id": "2385329",
+        "event_name": "fissure-playground-2",
+        "map_id": "208397",
+        "teams_name": "the-mongolz-vs-furia-fissure-playground-2"
+    },
+    {
+        "series_id": "2385327",
+        "event_name": "fissure-playground-2",
+        "map_id": "208283",
+        "teams_name": "the-mongolz-vs-liquid-fissure-playground-2"
+    },
+    {
+        "series_id": "2385324",
+        "event_name": "fissure-playground-2",
+        "map_id": "208181",
+        "teams_name": "aurora-vs-liquid-fissure-playground-2"
+    },
+    {
+        "series_id": "2385323",
+        "event_name": "fissure-playground-2",
+        "map_id": "208157",
+        "teams_name": "g2-vs-the-mongolz-fissure-playground-2"
+    },
+    {
+        "series_id": "2385322",
+        "event_name": "fissure-playground-2",
+        "map_id": "208006",
+        "teams_name": "pain-vs-virtuspro-fissure-playground-2"
+    },
+    {
+        "series_id": "2385319",
+        "event_name": "fissure-playground-2",
+        "map_id": "207956",
+        "teams_name": "astralis-vs-legacy-fissure-playground-2"
+    },
+    {
+        "series_id": "2385317",
+        "event_name": "fissure-playground-2",
+        "map_id": "207945",
+        "teams_name": "tyloo-vs-liquid-fissure-playground-2"
+    },
+    {
+        "series_id": "2385316",
+        "event_name": "fissure-playground-2",
+        "map_id": "207922",
+        "teams_name": "faze-vs-the-mongolz-fissure-playground-2"
+    },
+    {
+        "series_id": "2385307",
+        "event_name": "fissure-playground-2",
+        "map_id": "207879",
+        "teams_name": "astralis-vs-pain-fissure-playground-2"
+    },
+    {
+        "series_id": "2385310",
+        "event_name": "fissure-playground-2",
+        "map_id": "207844",
+        "teams_name": "liquid-vs-heroic-fissure-playground-2"
+    },
+    {
+        "series_id": "2385306",
+        "event_name": "fissure-playground-2",
+        "map_id": "207814",
+        "teams_name": "tyloo-vs-the-mongolz-fissure-playground-2"
+    },
+    {
+        "series_id": "2385305",
+        "event_name": "fissure-playground-2",
+        "map_id": "207766",
+        "teams_name": "heroic-vs-pain-fissure-playground-2"
+    },
+    {
+        "series_id": "2385302",
+        "event_name": "fissure-playground-2",
+        "map_id": "207753",
+        "teams_name": "aurora-vs-tyloo-fissure-playground-2"
+    },
+    {
+        "series_id": "2385296",
+        "event_name": "fissure-playground-2",
+        "map_id": "207588",
+        "teams_name": "faze-vs-pain-fissure-playground-2"
+    },
+    {
+        "series_id": "2385294",
+        "event_name": "fissure-playground-2",
+        "map_id": "207531",
+        "teams_name": "heroic-vs-legacy-fissure-playground-2"
+    },
+    {
+        "series_id": "2385292",
+        "event_name": "fissure-playground-2",
+        "map_id": "207433",
+        "teams_name": "falcons-vs-virtuspro-fissure-playground-2"
+    },
+    {
+        "series_id": "2384856",
+        "event_name": "blast-open-london-2025-finals",
+        "map_id": "206820",
+        "teams_name": "vitality-vs-g2-blast-open-london-2025-finals"
+    },
+    {
+        "series_id": "2384855",
+        "event_name": "blast-open-london-2025-finals",
+        "map_id": "206730",
+        "teams_name": "furia-vs-g2-blast-open-london-2025-finals"
+    },
+    {
+        "series_id": "2384854",
+        "event_name": "blast-open-london-2025-finals",
+        "map_id": "206690",
+        "teams_name": "vitality-vs-mouz-blast-open-london-2025-finals"
+    },
+    {
+        "series_id": "2384852",
+        "event_name": "blast-open-london-2025-finals",
+        "map_id": "206635",
+        "teams_name": "mouz-vs-m80-blast-open-london-2025-finals"
+    },
+    {
+        "series_id": "2384388",
+        "event_name": "esports-world-cup-2025",
+        "map_id": "205864",
+        "teams_name": "the-mongolz-vs-aurora-esports-world-cup-2025"
+    },
+    {
+        "series_id": "2384385",
+        "event_name": "esports-world-cup-2025",
+        "map_id": "205820",
+        "teams_name": "the-mongolz-vs-vitality-esports-world-cup-2025"
+    },
+    {
+        "series_id": "2384384",
+        "event_name": "esports-world-cup-2025",
+        "map_id": "205775",
+        "teams_name": "heroic-vs-aurora-esports-world-cup-2025"
+    },
+    {
+        "series_id": "2384303",
+        "event_name": "esports-world-cup-2025",
+        "map_id": "205701",
+        "teams_name": "mouz-vs-virtuspro-esports-world-cup-2025"
+    },
+    {
+        "series_id": "2384305",
+        "event_name": "esports-world-cup-2025",
+        "map_id": "205657",
+        "teams_name": "faze-vs-aurora-esports-world-cup-2025"
+    },
+    {
+        "series_id": "2384306",
+        "event_name": "esports-world-cup-2025",
+        "map_id": "205659",
+        "teams_name": "spirit-vs-heroic-esports-world-cup-2025"
+    },
+    {
+        "series_id": "2384299",
+        "event_name": "esports-world-cup-2025",
+        "map_id": "205634",
+        "teams_name": "vitality-vs-liquid-esports-world-cup-2025"
+    },
+    {
+        "series_id": "2384156",
+        "event_name": "blast-bounty-2025-season-2-finals",
+        "map_id": "205417",
+        "teams_name": "spirit-vs-the-mongolz-blast-bounty-2025-season-2-finals"
+    },
+    {
+        "series_id": "2384155",
+        "event_name": "blast-bounty-2025-season-2-finals",
+        "map_id": "205311",
+        "teams_name": "vitality-vs-the-mongolz-blast-bounty-2025-season-2-finals"
+    },
+    {
+        "series_id": "2384154",
+        "event_name": "blast-bounty-2025-season-2-finals",
+        "map_id": "205300",
+        "teams_name": "mouz-vs-spirit-blast-bounty-2025-season-2-finals"
+    },
+    {
+        "series_id": "2384151",
+        "event_name": "blast-bounty-2025-season-2-finals",
+        "map_id": "205081",
+        "teams_name": "the-mongolz-vs-aurora-blast-bounty-2025-season-2-finals"
+    },
+    {
+        "series_id": "2384150",
+        "event_name": "blast-bounty-2025-season-2-finals",
+        "map_id": "205057",
+        "teams_name": "mouz-vs-astralis-blast-bounty-2025-season-2-finals"
+    },
+    {
+        "series_id": "2383844",
+        "event_name": "iem-cologne-2025",
+        "map_id": "204203",
+        "teams_name": "spirit-vs-mouz-iem-cologne-2025"
+    },
+    {
+        "series_id": "2383842",
+        "event_name": "iem-cologne-2025",
+        "map_id": "204166",
+        "teams_name": "vitality-vs-mouz-iem-cologne-2025"
+    },
+    {
+        "series_id": "2383843",
+        "event_name": "iem-cologne-2025",
+        "map_id": "204147",
+        "teams_name": "spirit-vs-natus-vincere-iem-cologne-2025"
+    },
+    {
+        "series_id": "2383840",
+        "event_name": "iem-cologne-2025",
+        "map_id": "204108",
+        "teams_name": "mouz-vs-furia-iem-cologne-2025"
+    },
+    {
+        "series_id": "2383838",
+        "event_name": "iem-cologne-2025",
+        "map_id": "203939",
+        "teams_name": "mouz-vs-spirit-iem-cologne-2025"
+    },
+    {
+        "series_id": "2383830",
+        "event_name": "iem-cologne-2025",
+        "map_id": "203937",
+        "teams_name": "the-mongolz-vs-vitality-iem-cologne-2025"
+    },
+    {
+        "series_id": "2383836",
+        "event_name": "iem-cologne-2025",
+        "map_id": "203925",
+        "teams_name": "faze-vs-aurora-iem-cologne-2025"
+    },
+    {
+        "series_id": "2383828",
+        "event_name": "iem-cologne-2025",
+        "map_id": "203877",
+        "teams_name": "falcons-vs-furia-iem-cologne-2025"
+    },
+    {
+        "series_id": "2383834",
+        "event_name": "iem-cologne-2025",
+        "map_id": "203866",
+        "teams_name": "faze-vs-liquid-iem-cologne-2025"
+    },
+    {
+        "series_id": "2383832",
+        "event_name": "iem-cologne-2025",
+        "map_id": "203862",
+        "teams_name": "natus-vincere-vs-mouz-iem-cologne-2025"
+    },
+    {
+        "series_id": "2383825",
+        "event_name": "iem-cologne-2025",
+        "map_id": "203803",
+        "teams_name": "falcons-vs-the-mongolz-iem-cologne-2025"
+    },
+    {
+        "series_id": "2383762",
+        "event_name": "iem-cologne-2025",
+        "map_id": "203736",
+        "teams_name": "natus-vincere-vs-faze-iem-cologne-2025"
+    },
+    {
+        "series_id": "2383759",
+        "event_name": "iem-cologne-2025",
+        "map_id": "203719",
+        "teams_name": "falcons-vs-gamerlegion-iem-cologne-2025"
+    },
+    {
+        "series_id": "2383607",
+        "event_name": "fissure-playground-1",
+        "map_id": "203511",
+        "teams_name": "tyloo-vs-astralis-fissure-playground-1"
+    },
+    {
+        "series_id": "2383606",
+        "event_name": "fissure-playground-1",
+        "map_id": "203444",
+        "teams_name": "astralis-vs-betboom-fissure-playground-1"
+    },
+    {
+        "series_id": "2383604",
+        "event_name": "fissure-playground-1",
+        "map_id": "203360",
+        "teams_name": "gamerlegion-vs-betboom-fissure-playground-1"
+    },
+    {
+        "series_id": "2383600",
+        "event_name": "fissure-playground-1",
+        "map_id": "203292",
+        "teams_name": "betboom-vs-big-fissure-playground-1"
+    },
+    {
+        "series_id": "2383597",
+        "event_name": "fissure-playground-1",
+        "map_id": "203277",
+        "teams_name": "mibr-vs-astralis-fissure-playground-1"
+    },
+    {
+        "series_id": "2383596",
+        "event_name": "fissure-playground-1",
+        "map_id": "203183",
+        "teams_name": "tyloo-vs-astralis-fissure-playground-1"
+    },
+    {
+        "series_id": "2383595",
+        "event_name": "fissure-playground-1",
+        "map_id": "203173",
+        "teams_name": "virtuspro-vs-mibr-fissure-playground-1"
+    },
+    {
+        "series_id": "2383578",
+        "event_name": "fissure-playground-1",
+        "map_id": "203131",
+        "teams_name": "heroic-vs-big-fissure-playground-1"
+    },
+    {
+        "series_id": "2382619",
+        "event_name": "blasttv-austin-major-2025",
+        "map_id": "202022",
+        "teams_name": "vitality-vs-the-mongolz-blasttv-austin-major-2025"
+    },
+    {
+        "series_id": "2382617",
+        "event_name": "blasttv-austin-major-2025",
+        "map_id": "201951",
+        "teams_name": "pain-vs-the-mongolz-blasttv-austin-major-2025"
+    },
+    {
+        "series_id": "2382618",
+        "event_name": "blasttv-austin-major-2025",
+        "map_id": "201942",
+        "teams_name": "mouz-vs-vitality-blasttv-austin-major-2025"
+    },
+    {
+        "series_id": "2382615",
+        "event_name": "blasttv-austin-major-2025",
+        "map_id": "201905",
+        "teams_name": "faze-vs-the-mongolz-blasttv-austin-major-2025"
+    },
+    {
+        "series_id": "2382616",
+        "event_name": "blasttv-austin-major-2025",
+        "map_id": "201895",
+        "teams_name": "natus-vincere-vs-vitality-blasttv-austin-major-2025"
+    },
+    {
+        "series_id": "2382614",
+        "event_name": "blasttv-austin-major-2025",
+        "map_id": "201844",
+        "teams_name": "spirit-vs-mouz-blasttv-austin-major-2025"
+    },
+    {
+        "series_id": "2382612",
+        "event_name": "blasttv-austin-major-2025",
+        "map_id": "201648",
+        "teams_name": "virtuspro-vs-pain-blasttv-austin-major-2025"
+    },
+    {
+        "series_id": "2382609",
+        "event_name": "blasttv-austin-major-2025",
+        "map_id": "201539",
+        "teams_name": "natus-vincere-vs-g2-blasttv-austin-major-2025"
+    },
+    {
+        "series_id": "2382607",
+        "event_name": "blasttv-austin-major-2025",
+        "map_id": "201543",
+        "teams_name": "aurora-vs-mouz-blasttv-austin-major-2025"
+    },
+    {
+        "series_id": "2382602",
+        "event_name": "blasttv-austin-major-2025",
+        "map_id": "201422",
+        "teams_name": "mouz-vs-liquid-blasttv-austin-major-2025"
+    },
+    {
+        "series_id": "2382601",
+        "event_name": "blasttv-austin-major-2025",
+        "map_id": "201381",
+        "teams_name": "furia-vs-virtuspro-blasttv-austin-major-2025"
+    },
+    {
+        "series_id": "2382433",
+        "event_name": "blasttv-austin-major-2025",
+        "map_id": "201318",
+        "teams_name": "mouz-vs-virtuspro-blasttv-austin-major-2025"
+    },
+    {
+        "series_id": "2382695",
+        "event_name": "iem-dallas-2025",
+        "map_id": "200377",
+        "teams_name": "mouz-vs-vitality-iem-dallas-2025"
+    },
+    {
+        "series_id": "2382691",
+        "event_name": "iem-dallas-2025",
+        "map_id": "200280",
+        "teams_name": "the-mongolz-vs-aurora-iem-dallas-2025"
+    },
+    {
+        "series_id": "2382682",
+        "event_name": "iem-dallas-2025",
+        "map_id": "200181",
+        "teams_name": "gamerlegion-vs-g2-iem-dallas-2025"
+    },
+    {
+        "series_id": "2382681",
+        "event_name": "iem-dallas-2025",
+        "map_id": "200182",
+        "teams_name": "vitality-vs-the-mongolz-iem-dallas-2025"
+    },
+    {
+        "series_id": "2382690",
+        "event_name": "iem-dallas-2025",
+        "map_id": "200177",
+        "teams_name": "aurora-vs-heroic-iem-dallas-2025"
+    },
+    {
+        "series_id": "2382689",
+        "event_name": "iem-dallas-2025",
+        "map_id": "200175",
+        "teams_name": "mouz-vs-falcons-iem-dallas-2025"
+    },
+    {
+        "series_id": "2382680",
+        "event_name": "iem-dallas-2025",
+        "map_id": "200165",
+        "teams_name": "gamerlegion-vs-furia-iem-dallas-2025"
+    },
+    {
+        "series_id": "2382687",
+        "event_name": "iem-dallas-2025",
+        "map_id": "200158",
+        "teams_name": "faze-vs-heroic-iem-dallas-2025"
+    },
+    {
+        "series_id": "2382675",
+        "event_name": "iem-dallas-2025",
+        "map_id": "200103",
+        "teams_name": "gamerlegion-vs-vitality-iem-dallas-2025"
+    },
+    {
+        "series_id": "2382685",
+        "event_name": "iem-dallas-2025",
+        "map_id": "200078",
+        "teams_name": "faze-vs-bcgame-iem-dallas-2025"
+    },
+    {
+        "series_id": "2382381",
+        "event_name": "iem-dallas-2025",
+        "map_id": "200041",
+        "teams_name": "aurora-vs-heroic-iem-dallas-2025"
+    },
+    {
+        "series_id": "2382377",
+        "event_name": "iem-dallas-2025",
+        "map_id": "200039",
+        "teams_name": "the-mongolz-vs-furia-iem-dallas-2025"
+    },
+    {
+        "series_id": "2382379",
+        "event_name": "iem-dallas-2025",
+        "map_id": "200031",
+        "teams_name": "mouz-vs-bcgame-iem-dallas-2025"
+    },
+    {
+        "series_id": "2382251",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199948",
+        "teams_name": "astralis-vs-spirit-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382249",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199902",
+        "teams_name": "furia-vs-spirit-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382248",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199878",
+        "teams_name": "aurora-vs-astralis-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382245",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199810",
+        "teams_name": "natus-vincere-vs-astralis-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382244",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199796",
+        "teams_name": "the-mongolz-vs-aurora-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382240",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199572",
+        "teams_name": "mibr-vs-pain-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382238",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199560",
+        "teams_name": "big-vs-g2-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382231",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199507",
+        "teams_name": "the-mongolz-vs-natus-vincere-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382232",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199490",
+        "teams_name": "gamerlegion-vs-hotu-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382224",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199423",
+        "teams_name": "aurora-vs-hotu-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382222",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199412",
+        "teams_name": "gamerlegion-vs-furia-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382223",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199413",
+        "teams_name": "natus-vincere-vs-big-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382220",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199398",
+        "teams_name": "virtuspro-vs-m80-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382219",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199395",
+        "teams_name": "the-mongolz-vs-mibr-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382208",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199365",
+        "teams_name": "pain-vs-hotu-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382207",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199359",
+        "teams_name": "spirit-vs-gamerlegion-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382205",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199349",
+        "teams_name": "natus-vincere-vs-m80-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382203",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199327",
+        "teams_name": "the-mongolz-vs-furia-pgl-astana-2025"
+    },
+    {
+        "series_id": "2382201",
+        "event_name": "pgl-astana-2025",
+        "map_id": "199319",
+        "teams_name": "aurora-vs-big-pgl-astana-2025"
+    },
+    {
+        "series_id": "2381918",
+        "event_name": "blast-rivals-2025-season-1",
+        "map_id": "198897",
+        "teams_name": "falcons-vs-vitality-blast-rivals-2025-season-1"
+    },
+    {
+        "series_id": "2381917",
+        "event_name": "blast-rivals-2025-season-1",
+        "map_id": "198810",
+        "teams_name": "vitality-vs-spirit-blast-rivals-2025-season-1"
+    },
+    {
+        "series_id": "2381914",
+        "event_name": "blast-rivals-2025-season-1",
+        "map_id": "198717",
+        "teams_name": "mouz-vs-faze-blast-rivals-2025-season-1"
+    },
+    {
+        "series_id": "2381913",
+        "event_name": "blast-rivals-2025-season-1",
+        "map_id": "198686",
+        "teams_name": "spirit-vs-falcons-blast-rivals-2025-season-1"
+    },
+    {
+        "series_id": "2381911",
+        "event_name": "blast-rivals-2025-season-1",
+        "map_id": "198651",
+        "teams_name": "mouz-vs-vitality-blast-rivals-2025-season-1"
+    },
+    {
+        "series_id": "2381908",
+        "event_name": "blast-rivals-2025-season-1",
+        "map_id": "198551",
+        "teams_name": "spirit-vs-flyquest-blast-rivals-2025-season-1"
+    },
+    {
+        "series_id": "2381773",
+        "event_name": "iem-melbourne-2025",
+        "map_id": "198388",
+        "teams_name": "falcons-vs-vitality-iem-melbourne-2025"
+    },
+    {
+        "series_id": "2381772",
+        "event_name": "iem-melbourne-2025",
+        "map_id": "198273",
+        "teams_name": "vitality-vs-the-mongolz-iem-melbourne-2025"
+    },
+    {
+        "series_id": "2381768",
+        "event_name": "iem-melbourne-2025",
+        "map_id": "198154",
+        "teams_name": "vitality-vs-falcons-iem-melbourne-2025"
+    },
+    {
+        "series_id": "2381765",
+        "event_name": "iem-melbourne-2025",
+        "map_id": "198146",
+        "teams_name": "faze-vs-gamerlegion-iem-melbourne-2025"
+    },
+    {
+        "series_id": "2381766",
+        "event_name": "iem-melbourne-2025",
+        "map_id": "198148",
+        "teams_name": "mouz-vs-the-mongolz-iem-melbourne-2025"
+    },
+    {
+        "series_id": "2381763",
+        "event_name": "iem-melbourne-2025",
+        "map_id": "198143",
+        "teams_name": "flyquest-vs-natus-vincere-iem-melbourne-2025"
+    },
+    {
+        "series_id": "2381760",
+        "event_name": "iem-melbourne-2025",
+        "map_id": "198108",
+        "teams_name": "falcons-vs-natus-vincere-iem-melbourne-2025"
+    },
+    {
+        "series_id": "2381759",
+        "event_name": "iem-melbourne-2025",
+        "map_id": "198098",
+        "teams_name": "liquid-vs-vitality-iem-melbourne-2025"
+    },
+    {
+        "series_id": "2381644",
+        "event_name": "iem-melbourne-2025",
+        "map_id": "198056",
+        "teams_name": "natus-vincere-vs-mibr-iem-melbourne-2025"
+    },
+    {
+        "series_id": "2381642",
+        "event_name": "iem-melbourne-2025",
+        "map_id": "198040",
+        "teams_name": "liquid-vs-virtuspro-iem-melbourne-2025"
+    },
+    {
+        "series_id": "2381637",
+        "event_name": "iem-melbourne-2025",
+        "map_id": "198037",
+        "teams_name": "mouz-vs-big-iem-melbourne-2025"
+    },
+    {
+        "series_id": "2381332",
+        "event_name": "pgl-bucharest-2025",
+        "map_id": "197638",
+        "teams_name": "falcons-vs-g2-pgl-bucharest-2025"
+    },
+    {
+        "series_id": "2381329",
+        "event_name": "pgl-bucharest-2025",
+        "map_id": "197587",
+        "teams_name": "falcons-vs-faze-pgl-bucharest-2025"
+    },
+    {
+        "series_id": "2381328",
+        "event_name": "pgl-bucharest-2025",
+        "map_id": "197528",
+        "teams_name": "g2-vs-virtuspro-pgl-bucharest-2025"
+    },
+    {
+        "series_id": "2381324",
+        "event_name": "pgl-bucharest-2025",
+        "map_id": "197485",
+        "teams_name": "falcons-vs-the-mongolz-pgl-bucharest-2025"
+    },
+    {
+        "series_id": "2381321",
+        "event_name": "pgl-bucharest-2025",
+        "map_id": "197435",
+        "teams_name": "furia-vs-the-mongolz-pgl-bucharest-2025"
+    },
+    {
+        "series_id": "2381320",
+        "event_name": "pgl-bucharest-2025",
+        "map_id": "197426",
+        "teams_name": "aurora-vs-betclic-pgl-bucharest-2025"
+    },
+    {
+        "series_id": "2381316",
+        "event_name": "pgl-bucharest-2025",
+        "map_id": "197410",
+        "teams_name": "gamerlegion-vs-virtuspro-pgl-bucharest-2025"
+    },
+    {
+        "series_id": "2381315",
+        "event_name": "pgl-bucharest-2025",
+        "map_id": "197367",
+        "teams_name": "the-mongolz-vs-liquid-pgl-bucharest-2025"
+    },
+    {
+        "series_id": "2381308",
+        "event_name": "pgl-bucharest-2025",
+        "map_id": "197318",
+        "teams_name": "astralis-vs-betclic-pgl-bucharest-2025"
+    },
+    {
+        "series_id": "2381303",
+        "event_name": "pgl-bucharest-2025",
+        "map_id": "197283",
+        "teams_name": "liquid-vs-virtuspro-pgl-bucharest-2025"
+    },
+    {
+        "series_id": "2381302",
+        "event_name": "pgl-bucharest-2025",
+        "map_id": "197282",
+        "teams_name": "aurora-vs-legacy-pgl-bucharest-2025"
+    },
+    {
+        "series_id": "2381301",
+        "event_name": "pgl-bucharest-2025",
+        "map_id": "197280",
+        "teams_name": "falcons-vs-gamerlegion-pgl-bucharest-2025"
+    },
+    {
+        "series_id": "2381258",
+        "event_name": "pgl-bucharest-2025",
+        "map_id": "197265",
+        "teams_name": "furia-vs-betclic-pgl-bucharest-2025"
+    },
+    {
+        "series_id": "2381254",
+        "event_name": "pgl-bucharest-2025",
+        "map_id": "197230",
+        "teams_name": "g2-vs-gamerlegion-pgl-bucharest-2025"
+    },
+    {
+        "series_id": "2381252",
+        "event_name": "pgl-bucharest-2025",
+        "map_id": "197220",
+        "teams_name": "virtuspro-vs-rare-atom-pgl-bucharest-2025"
+    },
+    {
+        "series_id": "2380134",
+        "event_name": "blast-open-lisbon-2025",
+        "map_id": "196707",
+        "teams_name": "mouz-vs-vitality-blast-open-lisbon-2025"
+    },
+    {
+        "series_id": "2380132",
+        "event_name": "blast-open-lisbon-2025",
+        "map_id": "196609",
+        "teams_name": "vitality-vs-spirit-blast-open-lisbon-2025"
+    },
+    {
+        "series_id": "2380126",
+        "event_name": "blast-open-lisbon-2025",
+        "map_id": "195948",
+        "teams_name": "mouz-vs-vitality-blast-open-lisbon-2025"
+    },
+    {
+        "series_id": "2380122",
+        "event_name": "blast-open-lisbon-2025",
+        "map_id": "195913",
+        "teams_name": "falcons-vs-virtuspro-blast-open-lisbon-2025"
+    },
+    {
+        "series_id": "2380119",
+        "event_name": "blast-open-lisbon-2025",
+        "map_id": "195889",
+        "teams_name": "the-mongolz-vs-natus-vincere-blast-open-lisbon-2025"
+    },
+    {
+        "series_id": "2380007",
+        "event_name": "blast-open-lisbon-2025",
+        "map_id": "195752",
+        "teams_name": "natus-vincere-vs-furia-blast-open-lisbon-2025"
+    },
+    {
+        "series_id": "2380004",
+        "event_name": "blast-open-lisbon-2025",
+        "map_id": "195730",
+        "teams_name": "g2-vs-imperial-blast-open-lisbon-2025"
+    },
+    {
+        "series_id": "2380073",
+        "event_name": "esl-pro-league-season-21",
+        "map_id": "195319",
+        "teams_name": "natus-vincere-vs-the-mongolz-esl-pro-league-season-21"
+    },
+    {
+        "series_id": "2380075",
+        "event_name": "esl-pro-league-season-21",
+        "map_id": "195260",
+        "teams_name": "eternal-fire-vs-spirit-esl-pro-league-season-21"
+    },
+    {
+        "series_id": "2380070",
+        "event_name": "esl-pro-league-season-21",
+        "map_id": "195129",
+        "teams_name": "falcons-vs-eternal-fire-esl-pro-league-season-21"
+    },
+    {
+        "series_id": "2380068",
+        "event_name": "esl-pro-league-season-21",
+        "map_id": "195047",
+        "teams_name": "falcons-vs-furia-esl-pro-league-season-21"
+    },
+    {
+        "series_id": "2380067",
+        "event_name": "esl-pro-league-season-21",
+        "map_id": "195014",
+        "teams_name": "g2-vs-natus-vincere-esl-pro-league-season-21"
+    },
+    {
+        "series_id": "2380061",
+        "event_name": "esl-pro-league-season-21",
+        "map_id": "194881",
+        "teams_name": "furia-vs-mibr-esl-pro-league-season-21"
+    },
+    {
+        "series_id": "2380060",
+        "event_name": "esl-pro-league-season-21",
+        "map_id": "194842",
+        "teams_name": "pain-vs-natus-vincere-esl-pro-league-season-21"
+    },
+    {
+        "series_id": "2380049",
+        "event_name": "esl-pro-league-season-21",
+        "map_id": "194596",
+        "teams_name": "g2-vs-the-mongolz-esl-pro-league-season-21"
+    },
+    {
+        "series_id": "2380050",
+        "event_name": "esl-pro-league-season-21",
+        "map_id": "194589",
+        "teams_name": "gamerlegion-vs-pain-esl-pro-league-season-21"
+    },
+    {
+        "series_id": "2380047",
+        "event_name": "esl-pro-league-season-21",
+        "map_id": "194551",
+        "teams_name": "natus-vincere-vs-tyloo-esl-pro-league-season-21"
+    },
+    {
+        "series_id": "2380048",
+        "event_name": "esl-pro-league-season-21",
+        "map_id": "194540",
+        "teams_name": "eternal-fire-vs-mibr-esl-pro-league-season-21"
+    },
+    {
+        "series_id": "2380044",
+        "event_name": "esl-pro-league-season-21",
+        "map_id": "194404",
+        "teams_name": "the-mongolz-vs-gamerlegion-esl-pro-league-season-21"
+    },
+    {
+        "series_id": "2379366",
+        "event_name": "pgl-cluj-napoca-2025",
+        "map_id": "193340",
+        "teams_name": "mouz-vs-falcons-pgl-cluj-napoca-2025"
+    },
+    {
+        "series_id": "2379365",
+        "event_name": "pgl-cluj-napoca-2025",
+        "map_id": "193301",
+        "teams_name": "astralis-vs-faze-pgl-cluj-napoca-2025"
+    },
+    {
+        "series_id": "2379360",
+        "event_name": "pgl-cluj-napoca-2025",
+        "map_id": "193131",
+        "teams_name": "the-mongolz-vs-astralis-pgl-cluj-napoca-2025"
+    },
+    {
+        "series_id": "2379359",
+        "event_name": "pgl-cluj-napoca-2025",
+        "map_id": "193127",
+        "teams_name": "pain-vs-mouz-pgl-cluj-napoca-2025"
+    },
+    {
+        "series_id": "2379357",
+        "event_name": "pgl-cluj-napoca-2025",
+        "map_id": "192955",
+        "teams_name": "mouz-vs-virtuspro-pgl-cluj-napoca-2025"
+    },
+    {
+        "series_id": "2379354",
+        "event_name": "pgl-cluj-napoca-2025",
+        "map_id": "192904",
+        "teams_name": "pain-vs-virtuspro-pgl-cluj-napoca-2025"
+    },
+    {
+        "series_id": "2379353",
+        "event_name": "pgl-cluj-napoca-2025",
+        "map_id": "192858",
+        "teams_name": "astralis-vs-mibr-pgl-cluj-napoca-2025"
+    },
+    {
+        "series_id": "2379350",
+        "event_name": "pgl-cluj-napoca-2025",
+        "map_id": "192850",
+        "teams_name": "mouz-vs-falcons-pgl-cluj-napoca-2025"
+    },
+    {
+        "series_id": "2379348",
+        "event_name": "pgl-cluj-napoca-2025",
+        "map_id": "192833",
+        "teams_name": "pain-vs-the-mongolz-pgl-cluj-napoca-2025"
+    },
+    {
+        "series_id": "2379346",
+        "event_name": "pgl-cluj-napoca-2025",
+        "map_id": "192820",
+        "teams_name": "mouz-vs-faze-pgl-cluj-napoca-2025"
+    },
+    {
+        "series_id": "2379340",
+        "event_name": "pgl-cluj-napoca-2025",
+        "map_id": "192751",
+        "teams_name": "falcons-vs-pain-pgl-cluj-napoca-2025"
+    },
+    {
+        "series_id": "2379339",
+        "event_name": "pgl-cluj-napoca-2025",
+        "map_id": "192730",
+        "teams_name": "mibr-vs-imperial-valkyries-pgl-cluj-napoca-2025"
+    },
+    {
+        "series_id": "2379333",
+        "event_name": "pgl-cluj-napoca-2025",
+        "map_id": "192665",
+        "teams_name": "eternal-fire-vs-imperial-valkyries-pgl-cluj-napoca-2025"
+    },
+    {
+        "series_id": "2379332",
+        "event_name": "pgl-cluj-napoca-2025",
+        "map_id": "192658",
+        "teams_name": "pain-vs-astralis-pgl-cluj-napoca-2025"
+    },
+    {
+        "series_id": "2379326",
+        "event_name": "pgl-cluj-napoca-2025",
+        "map_id": "192637",
+        "teams_name": "mouz-vs-big-pgl-cluj-napoca-2025"
+    },
+    {
+        "series_id": "2378917",
+        "event_name": "iem-katowice-2025",
+        "map_id": "192189",
+        "teams_name": "vitality-vs-spirit-iem-katowice-2025"
+    },
+    {
+        "series_id": "2378916",
+        "event_name": "iem-katowice-2025",
+        "map_id": "192046",
+        "teams_name": "natus-vincere-vs-spirit-iem-katowice-2025"
+    },
+    {
+        "series_id": "2378915",
+        "event_name": "iem-katowice-2025",
+        "map_id": "192027",
+        "teams_name": "vitality-vs-the-mongolz-iem-katowice-2025"
+    },
+    {
+        "series_id": "2378913",
+        "event_name": "iem-katowice-2025",
+        "map_id": "191933",
+        "teams_name": "the-mongolz-vs-eternal-fire-iem-katowice-2025"
+    },
+    {
+        "series_id": "2378912",
+        "event_name": "iem-katowice-2025",
+        "map_id": "191662",
+        "teams_name": "the-mongolz-vs-natus-vincere-iem-katowice-2025"
+    },
+    {
+        "series_id": "2378907",
+        "event_name": "iem-katowice-2025",
+        "map_id": "191643",
+        "teams_name": "gamerlegion-vs-astralis-iem-katowice-2025"
+    },
+    {
+        "series_id": "2378903",
+        "event_name": "iem-katowice-2025",
+        "map_id": "191593",
+        "teams_name": "natus-vincere-vs-spirit-iem-katowice-2025"
+    },
+    {
+        "series_id": "2378904",
+        "event_name": "iem-katowice-2025",
+        "map_id": "191589",
+        "teams_name": "gamerlegion-vs-the-mongolz-iem-katowice-2025"
+    },
+    {
+        "series_id": "2378898",
+        "event_name": "iem-katowice-2025",
+        "map_id": "191554",
+        "teams_name": "falcons-vs-g2-iem-katowice-2025"
+    },
+    {
+        "series_id": "2378787",
+        "event_name": "iem-katowice-2025",
+        "map_id": "191538",
+        "teams_name": "the-mongolz-vs-liquid-iem-katowice-2025"
+    },
+    {
+        "series_id": "2378785",
+        "event_name": "iem-katowice-2025",
+        "map_id": "191504",
+        "teams_name": "natus-vincere-vs-furia-iem-katowice-2025"
+    },
+    {
+        "series_id": "2378786",
+        "event_name": "iem-katowice-2025",
+        "map_id": "191503",
+        "teams_name": "mouz-vs-gamerlegion-iem-katowice-2025"
+    },
+    {
+        "series_id": "2378783",
+        "event_name": "iem-katowice-2025",
+        "map_id": "191492",
+        "teams_name": "faze-vs-big-iem-katowice-2025"
+    },
+    {
+        "series_id": "2378780",
+        "event_name": "iem-katowice-2025",
+        "map_id": "191493",
+        "teams_name": "g2-vs-virtuspro-iem-katowice-2025"
+    },
+    {
+        "series_id": "2378460",
+        "event_name": "blast-bounty-2025-season-1-finals",
+        "map_id": "191125",
+        "teams_name": "eternal-fire-vs-spirit-blast-bounty-2025-season-1-finals"
+    },
+    {
+        "series_id": "2378455",
+        "event_name": "blast-bounty-2025-season-1-finals",
+        "map_id": "191015",
+        "teams_name": "natus-vincere-vs-pain-blast-bounty-2025-season-1-finals"
+    },
+    {
+        "series_id": "2378456",
+        "event_name": "blast-bounty-2025-season-1-finals",
+        "map_id": "190987",
+        "teams_name": "vitality-vs-eternal-fire-blast-bounty-2025-season-1-finals"
+    },
+    {
+        "series_id": "2377733",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189616",
+        "teams_name": "mouz-vs-spirit-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377732",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189566",
+        "teams_name": "vitality-vs-faze-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377731",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189558",
+        "teams_name": "g2-vs-heroic-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377728",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189370",
+        "teams_name": "faze-vs-furia-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377727",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189358",
+        "teams_name": "heroic-vs-natus-vincere-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377726",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189347",
+        "teams_name": "mibr-vs-mouz-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377725",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189278",
+        "teams_name": "furia-vs-pain-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377724",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189279",
+        "teams_name": "spirit-vs-heroic-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377722",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189266",
+        "teams_name": "mibr-vs-liquid-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377723",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189269",
+        "teams_name": "natus-vincere-vs-gamerlegion-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377721",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189258",
+        "teams_name": "g2-vs-faze-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377718",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189191",
+        "teams_name": "the-mongolz-vs-heroic-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377719",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189203",
+        "teams_name": "big-vs-pain-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377717",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189185",
+        "teams_name": "vitality-vs-mibr-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377712",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189174",
+        "teams_name": "natus-vincere-vs-spirit-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377709",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189143",
+        "teams_name": "g2-vs-big-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377707",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189134",
+        "teams_name": "mouz-vs-the-mongolz-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377705",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189127",
+        "teams_name": "vitality-vs-furia-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377702",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189125",
+        "teams_name": "heroic-vs-big-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2377698",
+        "event_name": "perfect-world-shanghai-major-2024",
+        "map_id": "189116",
+        "teams_name": "vitality-vs-gamerlegion-perfect-world-shanghai-major-2024"
+    },
+    {
+        "series_id": "2376884",
+        "event_name": "blast-premier-world-final-2024",
+        "map_id": "187409",
+        "teams_name": "g2-vs-spirit-blast-premier-world-final-2024"
+    },
+    {
+        "series_id": "2376883",
+        "event_name": "blast-premier-world-final-2024",
+        "map_id": "187339",
+        "teams_name": "g2-vs-vitality-blast-premier-world-final-2024"
+    },
+    {
+        "series_id": "2376880",
+        "event_name": "blast-premier-world-final-2024",
+        "map_id": "187281",
+        "teams_name": "faze-vs-spirit-blast-premier-world-final-2024"
+    },
+    {
+        "series_id": "2376881",
+        "event_name": "blast-premier-world-final-2024",
+        "map_id": "187274",
+        "teams_name": "mouz-vs-vitality-blast-premier-world-final-2024"
+    },
+    {
+        "series_id": "2376879",
+        "event_name": "blast-premier-world-final-2024",
+        "map_id": "187250",
+        "teams_name": "g2-vs-spirit-blast-premier-world-final-2024"
+    },
+    {
+        "series_id": "2376874",
+        "event_name": "blast-premier-world-final-2024",
+        "map_id": "187214",
+        "teams_name": "natus-vincere-vs-faze-blast-premier-world-final-2024"
+    },
+    {
+        "series_id": "2376877",
+        "event_name": "blast-premier-world-final-2024",
+        "map_id": "187180",
+        "teams_name": "vitality-vs-spirit-blast-premier-world-final-2024"
+    },
+    {
+        "series_id": "2376876",
+        "event_name": "blast-premier-world-final-2024",
+        "map_id": "187173",
+        "teams_name": "g2-vs-liquid-blast-premier-world-final-2024"
+    },
+    {
+        "series_id": "2376872",
+        "event_name": "blast-premier-world-final-2024",
+        "map_id": "187159",
+        "teams_name": "natus-vincere-vs-astralis-blast-premier-world-final-2024"
+    },
+    {
+        "series_id": "2376509",
+        "event_name": "iem-rio-2024",
+        "map_id": "186280",
+        "teams_name": "natus-vincere-vs-mouz-iem-rio-2024"
+    },
+    {
+        "series_id": "2376508",
+        "event_name": "iem-rio-2024",
+        "map_id": "186238",
+        "teams_name": "furia-vs-mouz-iem-rio-2024"
+    },
+    {
+        "series_id": "2376507",
+        "event_name": "iem-rio-2024",
+        "map_id": "186231",
+        "teams_name": "heroic-vs-natus-vincere-iem-rio-2024"
+    },
+    {
+        "series_id": "2376506",
+        "event_name": "iem-rio-2024",
+        "map_id": "186186",
+        "teams_name": "vitality-vs-mouz-iem-rio-2024"
+    },
+    {
+        "series_id": "2376501",
+        "event_name": "iem-rio-2024",
+        "map_id": "186095",
+        "teams_name": "faze-vs-mouz-iem-rio-2024"
+    },
+    {
+        "series_id": "2376503",
+        "event_name": "iem-rio-2024",
+        "map_id": "186089",
+        "teams_name": "furia-vs-natus-vincere-iem-rio-2024"
+    },
+    {
+        "series_id": "2376502",
+        "event_name": "iem-rio-2024",
+        "map_id": "186085",
+        "teams_name": "vitality-vs-heroic-iem-rio-2024"
+    },
+    {
+        "series_id": "2376500",
+        "event_name": "iem-rio-2024",
+        "map_id": "186082",
+        "teams_name": "the-mongolz-vs-eternal-fire-iem-rio-2024"
+    },
+    {
+        "series_id": "2376499",
+        "event_name": "iem-rio-2024",
+        "map_id": "186083",
+        "teams_name": "virtuspro-vs-astralis-iem-rio-2024"
+    },
+    {
+        "series_id": "2376495",
+        "event_name": "iem-rio-2024",
+        "map_id": "186024",
+        "teams_name": "heroic-vs-astralis-iem-rio-2024"
+    },
+    {
+        "series_id": "2376496",
+        "event_name": "iem-rio-2024",
+        "map_id": "186026",
+        "teams_name": "g2-vs-eternal-fire-iem-rio-2024"
+    },
+    {
+        "series_id": "2376494",
+        "event_name": "iem-rio-2024",
+        "map_id": "186020",
+        "teams_name": "9z-vs-virtuspro-iem-rio-2024"
+    },
+    {
+        "series_id": "2376490",
+        "event_name": "iem-rio-2024",
+        "map_id": "185984",
+        "teams_name": "faze-vs-pain-iem-rio-2024"
+    },
+    {
+        "series_id": "2376489",
+        "event_name": "iem-rio-2024",
+        "map_id": "185982",
+        "teams_name": "furia-vs-mouz-iem-rio-2024"
+    },
+    {
+        "series_id": "2376224",
+        "event_name": "iem-rio-2024",
+        "map_id": "185969",
+        "teams_name": "virtuspro-vs-the-mongolz-iem-rio-2024"
+    },
+    {
+        "series_id": "2376223",
+        "event_name": "iem-rio-2024",
+        "map_id": "185962",
+        "teams_name": "vitality-vs-9z-iem-rio-2024"
+    },
+    {
+        "series_id": "2375777",
+        "event_name": "blast-premier-fall-final-2024",
+        "map_id": "185318",
+        "teams_name": "g2-vs-natus-vincere-blast-premier-fall-final-2024"
+    },
+    {
+        "series_id": "2375775",
+        "event_name": "blast-premier-fall-final-2024",
+        "map_id": "185215",
+        "teams_name": "vitality-vs-g2-blast-premier-fall-final-2024"
+    },
+    {
+        "series_id": "2375774",
+        "event_name": "blast-premier-fall-final-2024",
+        "map_id": "185116",
+        "teams_name": "faze-vs-liquid-blast-premier-fall-final-2024"
+    },
+    {
+        "series_id": "2375773",
+        "event_name": "blast-premier-fall-final-2024",
+        "map_id": "185098",
+        "teams_name": "g2-vs-spirit-blast-premier-fall-final-2024"
+    },
+    {
+        "series_id": "2375771",
+        "event_name": "blast-premier-fall-final-2024",
+        "map_id": "185005",
+        "teams_name": "astralis-vs-spirit-blast-premier-fall-final-2024"
+    },
+    {
+        "series_id": "2375766",
+        "event_name": "blast-premier-fall-final-2024",
+        "map_id": "184878",
+        "teams_name": "g2-vs-faze-blast-premier-fall-final-2024"
+    },
+    {
+        "series_id": "2375425",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "184532",
+        "teams_name": "g2-vs-liquid-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375424",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "184514",
+        "teams_name": "natus-vincere-vs-spirit-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375418",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "184309",
+        "teams_name": "eternal-fire-vs-the-mongolz-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375419",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "184308",
+        "teams_name": "mibr-vs-heroic-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375415",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "184256",
+        "teams_name": "big-vs-the-mongolz-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375407",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "184009",
+        "teams_name": "falcons-vs-red-canids-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375406",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "184016",
+        "teams_name": "fnatic-vs-mouz-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375405",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "183967",
+        "teams_name": "furia-vs-virtuspro-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375402",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "183930",
+        "teams_name": "rooster-vs-astralis-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375398",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "183870",
+        "teams_name": "big-vs-fnatic-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375390",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "183722",
+        "teams_name": "rooster-vs-big-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375360",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "183660",
+        "teams_name": "big-vs-imperial-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375359",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "183631",
+        "teams_name": "mouz-vs-rooster-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375387",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "183534",
+        "teams_name": "sangal-vs-heroic-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375386",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "183490",
+        "teams_name": "eternal-fire-vs-natus-vincere-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375371",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "183249",
+        "teams_name": "koi-vs-the-mongolz-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375355",
+        "event_name": "esl-pro-league-season-20",
+        "map_id": "183135",
+        "teams_name": "koi-vs-g2-esl-pro-league-season-20"
+    },
+    {
+        "series_id": "2375024",
+        "event_name": "betboom-dacha-belgrade-season-2",
+        "map_id": "182969",
+        "teams_name": "spirit-vs-eternal-fire-betboom-dacha-belgrade-season-2"
+    },
+    {
+        "series_id": "2375021",
+        "event_name": "betboom-dacha-belgrade-season-2",
+        "map_id": "182903",
+        "teams_name": "spirit-vs-mouz-betboom-dacha-belgrade-season-2"
+    },
+    {
+        "series_id": "2375020",
+        "event_name": "betboom-dacha-belgrade-season-2",
+        "map_id": "182885",
+        "teams_name": "virtuspro-vs-pain-betboom-dacha-belgrade-season-2"
+    },
+    {
+        "series_id": "2375019",
+        "event_name": "betboom-dacha-belgrade-season-2",
+        "map_id": "182875",
+        "teams_name": "eternal-fire-vs-furia-betboom-dacha-belgrade-season-2"
+    },
+    {
+        "series_id": "2375017",
+        "event_name": "betboom-dacha-belgrade-season-2",
+        "map_id": "182819",
+        "teams_name": "pain-vs-mouz-betboom-dacha-belgrade-season-2"
+    },
+    {
+        "series_id": "2375018",
+        "event_name": "betboom-dacha-belgrade-season-2",
+        "map_id": "182788",
+        "teams_name": "spirit-vs-furia-betboom-dacha-belgrade-season-2"
+    },
+    {
+        "series_id": "2375015",
+        "event_name": "betboom-dacha-belgrade-season-2",
+        "map_id": "182757",
+        "teams_name": "heroic-vs-eternal-fire-betboom-dacha-belgrade-season-2"
+    },
+    {
+        "series_id": "2375016",
+        "event_name": "betboom-dacha-belgrade-season-2",
+        "map_id": "182720",
+        "teams_name": "falcons-vs-virtuspro-betboom-dacha-belgrade-season-2"
+    },
+    {
+        "series_id": "2375013",
+        "event_name": "betboom-dacha-belgrade-season-2",
+        "map_id": "182639",
+        "teams_name": "virtuspro-vs-furia-betboom-dacha-belgrade-season-2"
+    },
+    {
+        "series_id": "2374326",
+        "event_name": "iem-cologne-2024",
+        "map_id": "181701",
+        "teams_name": "vitality-vs-natus-vincere-iem-cologne-2024"
+    },
+    {
+        "series_id": "2374324",
+        "event_name": "iem-cologne-2024",
+        "map_id": "181650",
+        "teams_name": "natus-vincere-vs-mouz-iem-cologne-2024"
+    },
+    {
+        "series_id": "2374322",
+        "event_name": "iem-cologne-2024",
+        "map_id": "181596",
+        "teams_name": "mouz-vs-g2-iem-cologne-2024"
+    },
+    {
+        "series_id": "2374321",
+        "event_name": "iem-cologne-2024",
+        "map_id": "181396",
+        "teams_name": "liquid-vs-faze-iem-cologne-2024"
+    },
+    {
+        "series_id": "2374313",
+        "event_name": "iem-cologne-2024",
+        "map_id": "181365",
+        "teams_name": "g2-vs-pain-iem-cologne-2024"
+    },
+    {
+        "series_id": "2374310",
+        "event_name": "iem-cologne-2024",
+        "map_id": "181270",
+        "teams_name": "the-mongolz-vs-pain-iem-cologne-2024"
+    },
+    {
+        "series_id": "2374311",
+        "event_name": "iem-cologne-2024",
+        "map_id": "181263",
+        "teams_name": "astralis-vs-g2-iem-cologne-2024"
+    },
+    {
+        "series_id": "2374316",
+        "event_name": "iem-cologne-2024",
+        "map_id": "181231",
+        "teams_name": "virtuspro-vs-falcons-iem-cologne-2024"
+    },
+    {
+        "series_id": "2374309",
+        "event_name": "iem-cologne-2024",
+        "map_id": "181193",
+        "teams_name": "g2-vs-spirit-iem-cologne-2024"
+    },
+    {
+        "series_id": "2374306",
+        "event_name": "iem-cologne-2024",
+        "map_id": "181184",
+        "teams_name": "astralis-vs-natus-vincere-iem-cologne-2024"
+    },
+    {
+        "series_id": "2374305",
+        "event_name": "iem-cologne-2024",
+        "map_id": "181169",
+        "teams_name": "vitality-vs-furia-iem-cologne-2024"
+    },
+    {
+        "series_id": "2374298",
+        "event_name": "iem-cologne-2024",
+        "map_id": "181129",
+        "teams_name": "natus-vincere-vs-pain-iem-cologne-2024"
+    },
+    {
+        "series_id": "2374302",
+        "event_name": "iem-cologne-2024",
+        "map_id": "181104",
+        "teams_name": "faze-vs-liquid-iem-cologne-2024"
+    },
+    {
+        "series_id": "2373288",
+        "event_name": "esports-world-cup-2024",
+        "map_id": "179405",
+        "teams_name": "mouz-vs-natus-vincere-esports-world-cup-2024"
+    },
+    {
+        "series_id": "2373283",
+        "event_name": "esports-world-cup-2024",
+        "map_id": "179315",
+        "teams_name": "natus-vincere-vs-faze-esports-world-cup-2024"
+    },
+    {
+        "series_id": "2373284",
+        "event_name": "esports-world-cup-2024",
+        "map_id": "179290",
+        "teams_name": "mouz-vs-furia-esports-world-cup-2024"
+    },
+    {
+        "series_id": "2373286",
+        "event_name": "esports-world-cup-2024",
+        "map_id": "179245",
+        "teams_name": "vitality-vs-virtuspro-esports-world-cup-2024"
+    },
+    {
+        "series_id": "2373285",
+        "event_name": "esports-world-cup-2024",
+        "map_id": "179190",
+        "teams_name": "spirit-vs-g2-esports-world-cup-2024"
+    },
+    {
+        "series_id": "2373271",
+        "event_name": "esports-world-cup-2024",
+        "map_id": "179028",
+        "teams_name": "natus-vincere-vs-furia-esports-world-cup-2024"
+    },
+    {
+        "series_id": "2373269",
+        "event_name": "esports-world-cup-2024",
+        "map_id": "179007",
+        "teams_name": "mouz-vs-sashi-esports-world-cup-2024"
+    },
+    {
+        "series_id": "2372746",
+        "event_name": "blast-premier-spring-final-2024",
+        "map_id": "178250",
+        "teams_name": "spirit-vs-natus-vincere-blast-premier-spring-final-2024"
+    },
+    {
+        "series_id": "2372745",
+        "event_name": "blast-premier-spring-final-2024",
+        "map_id": "178192",
+        "teams_name": "natus-vincere-vs-virtuspro-blast-premier-spring-final-2024"
+    },
+    {
+        "series_id": "2372744",
+        "event_name": "blast-premier-spring-final-2024",
+        "map_id": "178153",
+        "teams_name": "spirit-vs-vitality-blast-premier-spring-final-2024"
+    },
+    {
+        "series_id": "2372742",
+        "event_name": "blast-premier-spring-final-2024",
+        "map_id": "178060",
+        "teams_name": "faze-vs-vitality-blast-premier-spring-final-2024"
+    },
+    {
+        "series_id": "2372740",
+        "event_name": "blast-premier-spring-final-2024",
+        "map_id": "177976",
+        "teams_name": "vitality-vs-g2-blast-premier-spring-final-2024"
+    },
+    {
+        "series_id": "2372736",
+        "event_name": "blast-premier-spring-final-2024",
+        "map_id": "177950",
+        "teams_name": "faze-vs-natus-vincere-blast-premier-spring-final-2024"
+    },
+    {
+        "series_id": "2372733",
+        "event_name": "yalla-compass-2024",
+        "map_id": "177656",
+        "teams_name": "the-mongolz-vs-ninjas-in-pyjamas-yalla-compass-2024"
+    },
+    {
+        "series_id": "2372731",
+        "event_name": "yalla-compass-2024",
+        "map_id": "177440",
+        "teams_name": "the-mongolz-vs-astralis-yalla-compass-2024"
+    },
+    {
+        "series_id": "2372729",
+        "event_name": "yalla-compass-2024",
+        "map_id": "177320",
+        "teams_name": "betboom-vs-astralis-yalla-compass-2024"
+    },
+    {
+        "series_id": "2372715",
+        "event_name": "yalla-compass-2024",
+        "map_id": "177162",
+        "teams_name": "astralis-vs-ence-yalla-compass-2024"
+    },
+    {
+        "series_id": "2372713",
+        "event_name": "yalla-compass-2024",
+        "map_id": "177129",
+        "teams_name": "the-mongolz-vs-heroic-yalla-compass-2024"
+    },
+    {
+        "series_id": "2372711",
+        "event_name": "yalla-compass-2024",
+        "map_id": "177076",
+        "teams_name": "sashi-vs-ence-yalla-compass-2024"
+    },
+    {
+        "series_id": "2372701",
+        "event_name": "yalla-compass-2024",
+        "map_id": "177019",
+        "teams_name": "sashi-vs-the-mongolz-yalla-compass-2024"
+    },
+    {
+        "series_id": "2372349",
+        "event_name": "iem-dallas-2024",
+        "map_id": "176738",
+        "teams_name": "spirit-vs-vitality-iem-dallas-2024"
+    },
+    {
+        "series_id": "2372340",
+        "event_name": "iem-dallas-2024",
+        "map_id": "176501",
+        "teams_name": "natus-vincere-vs-heroic-iem-dallas-2024"
+    },
+    {
+        "series_id": "2372334",
+        "event_name": "iem-dallas-2024",
+        "map_id": "176452",
+        "teams_name": "faze-vs-virtuspro-iem-dallas-2024"
+    },
+    {
+        "series_id": "2372335",
+        "event_name": "iem-dallas-2024",
+        "map_id": "176440",
+        "teams_name": "m80-vs-heroic-iem-dallas-2024"
+    },
+    {
+        "series_id": "2372004",
+        "event_name": "betboom-dacha-belgrade-2024",
+        "map_id": "175885",
+        "teams_name": "spirit-vs-mouz-betboom-dacha-belgrade-2024"
+    },
+    {
+        "series_id": "2372003",
+        "event_name": "betboom-dacha-belgrade-2024",
+        "map_id": "175801",
+        "teams_name": "mouz-vs-heroic-betboom-dacha-belgrade-2024"
+    },
+    {
+        "series_id": "2371996",
+        "event_name": "betboom-dacha-belgrade-2024",
+        "map_id": "175677",
+        "teams_name": "falcons-vs-virtuspro-betboom-dacha-belgrade-2024"
+    },
+    {
+        "series_id": "2371999",
+        "event_name": "betboom-dacha-belgrade-2024",
+        "map_id": "175602",
+        "teams_name": "spirit-vs-heroic-betboom-dacha-belgrade-2024"
+    },
+    {
+        "series_id": "2371995",
+        "event_name": "betboom-dacha-belgrade-2024",
+        "map_id": "175586",
+        "teams_name": "mouz-vs-virtuspro-betboom-dacha-belgrade-2024"
+    },
+    {
+        "series_id": "2371993",
+        "event_name": "betboom-dacha-belgrade-2024",
+        "map_id": "175397",
+        "teams_name": "virtuspro-vs-falcons-betboom-dacha-belgrade-2024"
+    },
+    {
+        "series_id": "2371552",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "175256",
+        "teams_name": "vitality-vs-mouz-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371551",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "175171",
+        "teams_name": "astralis-vs-vitality-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371543",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "175049",
+        "teams_name": "the-mongolz-vs-virtuspro-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371545",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "175050",
+        "teams_name": "natus-vincere-vs-faze-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371544",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "175029",
+        "teams_name": "liquid-vs-flyquest-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371541",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "175013",
+        "teams_name": "faze-vs-monte-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371539",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "175011",
+        "teams_name": "gamerlegion-vs-virtuspro-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371540",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174995",
+        "teams_name": "betboom-vs-flyquest-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371521",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174916",
+        "teams_name": "monte-vs-furia-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371516",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174878",
+        "teams_name": "mouz-vs-liquid-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371520",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174864",
+        "teams_name": "furia-vs-ence-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371519",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174854",
+        "teams_name": "monte-vs-forze-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371535",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174853",
+        "teams_name": "flyquest-vs-pera-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371518",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174821",
+        "teams_name": "bad-news-kangaroos-vs-furia-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371515",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174781",
+        "teams_name": "gamerlegion-vs-forze-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371513",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174718",
+        "teams_name": "monte-vs-liquid-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371512",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174694",
+        "teams_name": "mouz-vs-gamerlegion-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371525",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174675",
+        "teams_name": "flyquest-vs-natus-vincere-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371508",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174646",
+        "teams_name": "furia-vs-liquid-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371509",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174648",
+        "teams_name": "forze-vs-monte-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371507",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174611",
+        "teams_name": "mouz-vs-bad-news-kangaroos-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371500",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174488",
+        "teams_name": "the-mongolz-vs-vitality-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371501",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174399",
+        "teams_name": "betboom-vs-m80-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371485",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174387",
+        "teams_name": "faze-vs-eternal-fire-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371483",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174327",
+        "teams_name": "virtuspro-vs-faze-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371494",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174319",
+        "teams_name": "sharks-vs-m80-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371496",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174313",
+        "teams_name": "vitality-vs-betboom-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371495",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174301",
+        "teams_name": "tyloo-vs-falcons-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371478",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174273",
+        "teams_name": "eternal-fire-vs-imperial-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371492",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174246",
+        "teams_name": "falcons-vs-the-mongolz-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371491",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174237",
+        "teams_name": "m80-vs-betboom-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2371490",
+        "event_name": "esl-pro-league-season-19",
+        "map_id": "174226",
+        "teams_name": "vitality-vs-sharks-esl-pro-league-season-19"
+    },
+    {
+        "series_id": "2370928",
+        "event_name": "iem-chengdu-2024",
+        "map_id": "173437",
+        "teams_name": "liquid-vs-faze-iem-chengdu-2024"
+    },
+    {
+        "series_id": "2370918",
+        "event_name": "iem-chengdu-2024",
+        "map_id": "173251",
+        "teams_name": "liquid-vs-mouz-iem-chengdu-2024"
+    },
+    {
+        "series_id": "2370920",
+        "event_name": "iem-chengdu-2024",
+        "map_id": "173139",
+        "teams_name": "steel-helmet-vs-nemiga-iem-chengdu-2024"
+    },
+    {
+        "series_id": "2370922",
+        "event_name": "iem-chengdu-2024",
+        "map_id": "173133",
+        "teams_name": "cloud9-vs-wildcard-iem-chengdu-2024"
+    },
+    {
+        "series_id": "2370913",
+        "event_name": "iem-chengdu-2024",
+        "map_id": "173102",
+        "teams_name": "furia-vs-mouz-iem-chengdu-2024"
+    },
+    {
+        "series_id": "2370912",
+        "event_name": "iem-chengdu-2024",
+        "map_id": "173077",
+        "teams_name": "9z-vs-heroic-iem-chengdu-2024"
+    },
+    {
+        "series_id": "2370727",
+        "event_name": "pgl-cs2-major-copenhagen-2024",
+        "map_id": "172646",
+        "teams_name": "faze-vs-natus-vincere-pgl-cs2-major-copenhagen-2024"
+    },
+    {
+        "series_id": "2370723",
+        "event_name": "pgl-cs2-major-copenhagen-2024",
+        "map_id": "172603",
+        "teams_name": "eternal-fire-vs-natus-vincere-pgl-cs2-major-copenhagen-2024"
+    },
+    {
+        "series_id": "2370722",
+        "event_name": "pgl-cs2-major-copenhagen-2024",
+        "map_id": "172573",
+        "teams_name": "spirit-vs-faze-pgl-cs2-major-copenhagen-2024"
+    },
+    {
+        "series_id": "2370660",
+        "event_name": "pgl-cs2-major-copenhagen-2024",
+        "map_id": "172436",
+        "teams_name": "natus-vincere-vs-pain-pgl-cs2-major-copenhagen-2024"
+    },
+    {
+        "series_id": "2370656",
+        "event_name": "pgl-cs2-major-copenhagen-2024",
+        "map_id": "172404",
+        "teams_name": "cloud9-vs-natus-vincere-pgl-cs2-major-copenhagen-2024"
+    },
+    {
+        "series_id": "2370657",
+        "event_name": "pgl-cs2-major-copenhagen-2024",
+        "map_id": "172406",
+        "teams_name": "heroic-vs-pain-pgl-cs2-major-copenhagen-2024"
+    },
+    {
+        "series_id": "2370653",
+        "event_name": "pgl-cs2-major-copenhagen-2024",
+        "map_id": "172391",
+        "teams_name": "imperial-vs-faze-pgl-cs2-major-copenhagen-2024"
+    },
+    {
+        "series_id": "2370650",
+        "event_name": "pgl-cs2-major-copenhagen-2024",
+        "map_id": "172369",
+        "teams_name": "spirit-vs-natus-vincere-pgl-cs2-major-copenhagen-2024"
+    },
+    {
+        "series_id": "2370649",
+        "event_name": "pgl-cs2-major-copenhagen-2024",
+        "map_id": "172351",
+        "teams_name": "pain-vs-the-mongolz-pgl-cs2-major-copenhagen-2024"
+    },
+    {
+        "series_id": "2370642",
+        "event_name": "pgl-cs2-major-copenhagen-2024",
+        "map_id": "172330",
+        "teams_name": "spirit-vs-imperial-pgl-cs2-major-copenhagen-2024"
+    },
+    {
+        "series_id": "2370629",
+        "event_name": "pgl-cs2-major-copenhagen-2024",
+        "map_id": "172298",
+        "teams_name": "natus-vincere-vs-the-mongolz-pgl-cs2-major-copenhagen-2024"
+    },
+    {
+        "series_id": "2369507",
+        "event_name": "iem-katowice-2024",
+        "map_id": "170271",
+        "teams_name": "faze-vs-spirit-iem-katowice-2024"
+    },
+    {
+        "series_id": "2369504",
+        "event_name": "iem-katowice-2024",
+        "map_id": "170213",
+        "teams_name": "ence-vs-falcons-iem-katowice-2024"
+    },
+    {
+        "series_id": "2369494",
+        "event_name": "iem-katowice-2024",
+        "map_id": "170130",
+        "teams_name": "falcons-vs-natus-vincere-iem-katowice-2024"
+    },
+    {
+        "series_id": "2369493",
+        "event_name": "iem-katowice-2024",
+        "map_id": "170124",
+        "teams_name": "spirit-vs-faze-iem-katowice-2024"
+    },
+    {
+        "series_id": "2369499",
+        "event_name": "iem-katowice-2024",
+        "map_id": "170118",
+        "teams_name": "heroic-vs-gamerlegion-iem-katowice-2024"
+    },
+    {
+        "series_id": "2369492",
+        "event_name": "iem-katowice-2024",
+        "map_id": "170108",
+        "teams_name": "natus-vincere-vs-eternal-fire-iem-katowice-2024"
+    },
+    {
+        "series_id": "2369497",
+        "event_name": "iem-katowice-2024",
+        "map_id": "170102",
+        "teams_name": "g2-vs-ence-iem-katowice-2024"
+    },
+    {
+        "series_id": "2369495",
+        "event_name": "iem-katowice-2024",
+        "map_id": "170091",
+        "teams_name": "heroic-vs-vitality-iem-katowice-2024"
+    },
+    {
+        "series_id": "2369496",
+        "event_name": "iem-katowice-2024",
+        "map_id": "170094",
+        "teams_name": "monte-vs-cloud9-iem-katowice-2024"
+    },
+    {
+        "series_id": "2369490",
+        "event_name": "iem-katowice-2024",
+        "map_id": "170062",
+        "teams_name": "natus-vincere-vs-apeks-iem-katowice-2024"
+    },
+    {
+        "series_id": "2369415",
+        "event_name": "iem-katowice-2024",
+        "map_id": "170033",
+        "teams_name": "mouz-vs-cloud9-iem-katowice-2024"
+    },
+    {
+        "series_id": "2369410",
+        "event_name": "iem-katowice-2024",
+        "map_id": "169982",
+        "teams_name": "natus-vincere-vs-spirit-iem-katowice-2024"
+    },
+    {
+        "series_id": "2368604",
+        "event_name": "esl-challenger-atlanta-2023",
+        "map_id": "168314",
+        "teams_name": "apeks-vs-monte-esl-challenger-atlanta-2023"
+    },
+    {
+        "series_id": "2368599",
+        "event_name": "esl-challenger-atlanta-2023",
+        "map_id": "168177",
+        "teams_name": "monte-vs-virtuspro-esl-challenger-atlanta-2023"
+    },
+    {
+        "series_id": "2368595",
+        "event_name": "esl-challenger-atlanta-2023",
+        "map_id": "168159",
+        "teams_name": "apeks-vs-gamerlegion-esl-challenger-atlanta-2023"
+    },
+    {
+        "series_id": "2368525",
+        "event_name": "blast-premier-world-final-2023",
+        "map_id": "168204",
+        "teams_name": "faze-vs-mouz-blast-premier-world-final-2023"
+    },
+    {
+        "series_id": "2368523",
+        "event_name": "blast-premier-world-final-2023",
+        "map_id": "168139",
+        "teams_name": "cloud9-vs-mouz-blast-premier-world-final-2023"
+    },
+    {
+        "series_id": "2368521",
+        "event_name": "blast-premier-world-final-2023",
+        "map_id": "168134",
+        "teams_name": "heroic-vs-mouz-blast-premier-world-final-2023"
+    }
+]
