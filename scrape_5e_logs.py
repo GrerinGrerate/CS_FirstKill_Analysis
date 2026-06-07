@@ -100,6 +100,7 @@ def _parse_round_end(tag, raw_text):
         winner_side = "CT"
     else:
         winner_side = None
+    # PS：这里写错了，后面有补救
     winner_score = _safe_span_int(tag.find("span", class_="green"))
     loser_score  = _safe_span_int(tag.find("span", class_="red"))
     # 根据胜方反推哪边是 T 的得分，哪边是 CT 的得分
