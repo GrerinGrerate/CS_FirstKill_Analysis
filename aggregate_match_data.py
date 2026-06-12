@@ -93,7 +93,7 @@ def _on_kill(state, entry):
         state['rounds'][-1]['kills'].append(kill_data)
 
 # 解析已反转的日志条目，输出按回合组织的击杀和结果列表
-# 核心规则：
+# 规则：
 #   round_start → 开启新回合（若上一回合未见 round_end 则合成关闭）
 #   round_end   → 关闭当前回合（若无当前回合则基于上一回合编号+1合成开启再关闭）
 #   kill        → 属于当前回合；若当前无回合则归属上一回合（end 后 start 前的击杀）
