@@ -4,3 +4,12 @@ __pycache__/
 *.dem
 .env
 .DS_Store
+.codex
+.agents
+*.md
+*.aux
+*.bbl
+*.blg
+*.out
+*.bib
+*.tex
